@@ -1,1 +1,3 @@
-# RealEstateMarketAnalysis
+# Data Analytics: Bay Area Real Estate Market Analysis with Web Scraping
+Performed web scraping on Redfin properties in Bay Area with the required attributes for this analysis. Cleaned up the data to reduce noise and outliers using python regex scripts. 
+Performed analysis of the data to generate residual graphs and prediction calculations. Created linear regression model and Random forest regression model to understand what contributes to price fluctuation in the region.
