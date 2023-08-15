@@ -1,0 +1,887 @@
+State,County,City,Street,Zipcode,Property_Type,Status,Price,Year_Built,Beds,Bath,Sqft,Lot Area,HOA Due,School_rating,WalkScore,Bike_Score,Garage_availability,Redfin_estimate
+Ca,Contra-costa-county,Oakley,2537 talaria dr,94561,Single family residential,Back on market,649999.0,2014,3.0,2.5,2279.0,6228.0,114.0,6,6,35.0,Yes,655836.0
+Ca,Contra-costa-county,Pleasant hill,66 kathryn dr,94523,Single family residential,Price change,998000.0,1952,3.0,1.0,1315.0,6650.0,0.0,8,83,76.0,Yes,1048496.0
+Ca,Contra-costa-county,San ramon,3246 ensenada dr,94583,Single family residential,New,1395000.0,1976,4.0,2.5,1880.0,7000.0,0.0,9,26,67.0,Yes,1413765.0
+Ca,Contra-costa-county,Rodeo,30 london ln,94572,Single family residential,New,1249000.0,2022,4.0,3.5,2996.0,4850.0,0.0,0,4,8.0,Yes,0.0
+Ca,Contra-costa-county,Pittsburg,153 shannon,94565,Mobile/manufactured home,Active,159900.0,2022,2.0,1.0,720.0,8760.0,0.0,5,7,30.0,Yes,160645.0
+Ca,Contra-costa-county,Pleasant hill,366 scarlet oak ct,94523,Single family residential,Active,999000.0,1981,3.0,2.0,1438.0,6299.0,158.0,8,53,59.0,Yes,1010186.0
+Ca,Contra-costa-county,Richmond,2300 foothill ave,94804,Multi-family (2-4 unit),Active,825000.0,1956,4.0,2.0,2408.0,6098.0,0.0,2,69,53.0,No,822190.0
+Ca,Contra-costa-county,Antioch,3620 freedom,94509,Single family residential,Active,698000.0,1989,4.0,3.0,2135.0,4769.0,0.0,3,26,54.0,Yes,0.0
+Ca,Contra-costa-county,Oakley,43 sugarbush ct,94561,Single family residential,New,618900.0,2012,3.0,2.0,1490.0,5100.0,0.0,7,36,54.0,Yes,621156.0
+Ca,Contra-costa-county,Pittsburg,203 heron dr,94565,Townhouse,New,575000.0,1991,3.0,2.5,1606.0,4747.0,272.0,4,75,50.0,Yes,575622.0
+Ca,Contra-costa-county,Walnut creek,187 lancaster rd,94595,Single family residential,New,1199000.0,1938,3.0,2.0,1257.0,13503.6,0.0,9,3,38.0,Yes,0.0
+Ca,Contra-costa-county,San ramon,2737 fountainhead dr,94583,Townhouse,Active,795000.0,1973,3.0,1.5,1276.0,880.0,395.0,9,22,11.0,Yes,798311.0
+Ca,Contra-costa-county,Antioch,5101 portola ct,94531,Single family residential,Active,649000.0,1992,3.0,2.0,1720.0,6385.0,0.0,5,61,36.0,Yes,649769.0
+Ca,Contra-costa-county,Antioch,3037 butternut st,94509,Single family residential,New,550000.0,1992,3.0,2.0,1335.0,5000.0,0.0,5,19,40.0,Yes,552509.0
+Ca,Contra-costa-county,Lafayette,2625 olympic blvd,94595,Single family residential,Active,1349000.0,1949,4.0,2.0,2044.0,11325.6,0.0,9,36,24.0,Yes,1357076.0
+Ca,Contra-costa-county,Bay point,401 marina rd,94565,Single family residential,Active,479000.0,1953,3.0,1.0,955.0,5750.0,0.0,3,19,37.0,No,486129.0
+Ca,Contra-costa-county,Antioch,3112 elizabeth ln,94509,Single family residential,New,499950.0,1954,3.0,1.0,961.0,5000.0,0.0,3,47,32.0,Yes,506417.0
+Ca,Contra-costa-county,Moraga,36 greenfield dr,94556,Single family residential,Active,1795000.0,1970,4.0,2.0,2474.0,14810.400000000001,0.0,9,15,31.0,Yes,1857110.0
+Ca,Contra-costa-county,Danville,575 sycamore cir,94526,Townhouse,Active,750000.0,1973,2.0,1.5,1148.0,912.0,495.0,9,60,69.0,Yes,757140.0
+Ca,Contra-costa-county,Concord,963 alla ave,94518,Single family residential,Price change,659000.0,1958,3.0,2.0,1247.0,6111.0,0.0,4,44,45.0,Yes,670676.0
+Ca,Contra-costa-county,Oakley,4076 mellowood dr,94561,Single family residential,New,609000.0,1985,4.0,3.0,1940.0,9919.0,0.0,6,31,59.0,Yes,607846.0
+Ca,Contra-costa-county,El cerrito,1641 arlington blvd,94530-2004,Single family residential,Active,2150000.0,2019,4.0,3.5,3528.0,8904.0,0.0,7,24,0.0,Yes,2267197.0
+Ca,Contra-costa-county,Hercules,698 turquoise dr,94547,Single family residential,Active,939000.0,1990,4.0,2.5,2615.0,6424.0,0.0,7,11,3.0,Yes,0.0
+Ca,Contra-costa-county,Antioch,5012 perry way,94531,Single family residential,Active,650000.0,1992,4.0,2.5,1730.0,5000.0,0.0,5,52,63.0,Yes,652682.0
+Ca,Contra-costa-county,San ramon,6104 hedgecrest cir,94582,Single family residential,New,1975000.0,1998,4.0,2.5,2449.0,5255.0,40.0,8,33,26.0,Yes,1998272.0
+Ca,Contra-costa-county,Concord,5213 olive dr,94521,Single family residential,New,949000.0,1948,4.0,2.0,2010.0,15681.599999999999,0.0,6,15,37.0,Yes,956403.0
+Ca,Contra-costa-county,Richmond,2807 wendell ave,94804,Single family residential,Active,530000.0,1923,2.0,1.0,798.0,4360.0,0.0,3,67,55.0,Yes,538624.0
+Ca,Contra-costa-county,Antioch,2400 starlight ln #164,94509,Condo,Price change,319950.0,1981,2.0,2.0,944.0,4360.0,440.0,3,59,57.0,No,344126.0
+Ca,Contra-costa-county,Oakley,454 sonnet ct,94561,Single family residential,Price change,680888.0,2014,3.0,2.0,2437.0,8588.0,0.0,6,9,35.0,Yes,714121.0
+Ca,Contra-costa-county,Concord,5508 colorado dr,94521,Single family residential,New,795000.0,1959,3.0,2.0,1547.0,7000.0,0.0,8,73,44.0,Yes,819925.0
+Ca,Contra-costa-county,Clayton,151 regency dr,94517,Single family residential,New,1225000.0,1976,3.0,2.5,1927.0,8856.0,0.0,9,10,1.0,Yes,1247421.0
+Ca,Contra-costa-county,Oakley,61 fuschia ct,94561,Single family residential,Active,781230.0,2022,4.0,3.0,2775.0,8410.0,0.0,0,41,54.0,Yes,0.0
+Ca,Contra-costa-county,Danville,145 burgess ct,94526,Single family residential,Active,2338000.0,1967,6.0,4.0,3136.0,10000.0,93.0,9,15,34.0,Yes,0.0
+Ca,Contra-costa-county,Walnut creek,1879 olmo way,94598,Townhouse,New,699800.0,1973,2.0,2.5,1308.0,1044.0,430.0,9,63,83.0,Yes,711123.0
+Ca,Contra-costa-county,Discovery bay,4105 windward ct,94505,Single family residential,Active,1399000.0,1992,3.0,2.0,2615.0,9600.0,0.0,7,5,27.0,Yes,1403734.0
+Ca,Contra-costa-county,San ramon,1351 canyon side ave,94582,Townhouse,New,1500000.0,1986,3.0,3.0,2404.0,3879.0,533.0,9,4,16.0,Yes,1504529.0
+Ca,Contra-costa-county,Concord,2890 treat blvd #28,94518,Condo,Active,460000.0,1974,2.0,1.0,917.0,3879.0,518.0,7,65,77.0,Yes,460143.0
+Ca,Contra-costa-county,Walnut creek,1035 northoak dr,94598,Townhouse,Price change,848800.0,1976,2.0,2.0,1217.0,1500.0,456.0,9,59,76.0,Yes,0.0
+Ca,Contra-costa-county,Pleasant hill,122 southwind dr,94523,Townhouse,Price change,699950.0,1985,2.0,2.0,1324.0,1290.0,430.0,9,8,16.0,Yes,747644.0
+Ca,Contra-costa-county,Moraga,2135 ascot dr #23,94556,Condo,Active,765000.0,1969,2.0,2.5,1529.0,1290.0,505.0,9,45,57.0,No,766547.0
+Ca,Contra-costa-county,Martinez,117 burgundy ct,94553,Single family residential,New,1085000.0,1999,4.0,2.5,2726.0,6800.0,0.0,8,45,35.0,Yes,1105168.0
+Ca,Contra-costa-county,Lafayette,1038 leland dr,94549,Single family residential,New,1325000.0,1962,3.0,2.0,1240.0,13503.6,0.0,9,23,16.0,Yes,1341730.0
+Ca,Contra-costa-county,Antioch,2408 lemontree ct #4,94509,Condo,Active,212500.0,1969,2.0,1.0,925.0,13503.6,480.0,3,39,48.0,Yes,214136.0
+Ca,Contra-costa-county,Richmond,788 amador st,94805,Single family residential,New,699900.0,1943,3.0,1.5,1319.0,6000.0,0.0,5,62,59.0,Yes,702205.0
+Ca,Contra-costa-county,Brentwood,1738 veneto ln,94513,Single family residential,New,1050000.0,2016,2.0,2.5,2054.0,6989.0,366.0,9,7,19.0,Yes,1050125.0
+Ca,Contra-costa-county,Concord,5327 grasswood cir,94521,Single family residential,New,749500.0,1995,2.0,2.0,988.0,5600.0,0.0,8,14,3.0,Yes,759880.0
+Ca,Contra-costa-county,Discovery bay,227 tidewater way,94505,Single family residential,Price change,734900.0,2020,3.0,2.5,2106.0,6183.0,175.0,7,4,33.0,Yes,747859.0
+Ca,Contra-costa-county,Oakley,1274 fetzer ln,94561,Single family residential,New,629900.0,1998,3.0,2.0,1782.0,7200.0,0.0,6,36,66.0,Yes,636771.0
+Ca,Contra-costa-county,Bay point,172 shore rd,94565,Single family residential,New,469000.0,1952,5.0,2.0,1100.0,5200.0,0.0,3,49,41.0,Yes,471367.0
+Ca,Contra-costa-county,Richmond,339 42nd st,94805,Single family residential,New,599000.0,1918,2.0,1.0,1083.0,3800.0,0.0,2,82,85.0,Yes,649640.0
+Ca,Contra-costa-county,Antioch,2926 cherry st,94509-5208,Single family residential,Active,499900.0,1973,3.0,2.0,1172.0,3120.0,0.0,3,58,60.0,Yes,499833.0
+Ca,Contra-costa-county,Clayton,35 eastbrook ct,94517-1019,Single family residential,Active,905000.0,1964,4.0,2.0,1720.0,11325.6,0.0,8,42,42.0,Yes,908246.0
+Ca,Contra-costa-county,San ramon,3053 blackberry ave,94582,Condo,Active,1199000.0,2017,3.0,3.0,1839.0,981.0,226.0,8,15,19.0,Yes,1198390.0
+Ca,Contra-costa-county,Antioch,132 rainier ln,94509,Townhouse,New,474999.0,1972,4.0,1.5,1342.0,1034.0,295.0,3,58,66.0,Yes,475261.0
+Ca,Contra-costa-county,Antioch,5127 domengine way,94531,Single family residential,New,999999.0,2000,5.0,3.0,3383.0,13068.0,0.0,5,10,1.0,Yes,1013863.0
+Ca,Contra-costa-county,Antioch,1629 mount silliman way,94531,Single family residential,Active,599900.0,1993,3.0,2.5,1710.0,4880.0,0.0,5,34,33.0,Yes,604328.0
+Ca,Contra-costa-county,Antioch,44 bryan ave,94509,Single family residential,Active,499000.0,1953,3.0,2.0,1022.0,5702.0,0.0,3,67,50.0,Yes,0.0
+Ca,Contra-costa-county,Concord,4483 deerberry ct,94521,Single family residential,Active,1075000.0,1977,4.0,2.5,1991.0,5520.0,107.0,9,8,31.0,Yes,1080220.0
+Ca,Contra-costa-county,Martinez,620 skyline dr,94553,Single family residential,Active,1429000.0,1972,4.0,2.5,1973.0,10680.0,0.0,9,9,15.0,Yes,1466617.0
+Ca,Contra-costa-county,Walnut creek,1881 shuey ave,94596,Multi-family (2-4 unit),Active,1800000.0,1925,7.0,4.0,3727.0,12196.800000000001,0.0,9,90,73.0,Yes,1789696.0
+Ca,Contra-costa-county,San pablo,1951 espanola dr,94806,Single family residential,New,639000.0,1959,3.0,2.0,1264.0,7800.0,0.0,4,35,17.0,Yes,660748.0
+Ca,Contra-costa-county,Pleasant hill,352 scarlet oak ct,94523-1243,Single family residential,Active,995000.0,1988,4.0,2.5,1718.0,5000.0,27.0,8,52,56.0,Yes,1015597.0
+Ca,Contra-costa-county,Richmond,3813 jenkins way,94806,Single family residential,New,509950.0,1951,3.0,2.0,1258.0,5000.0,0.0,5,23,55.0,No,515559.0
+Ca,Contra-costa-county,Walnut creek,2637 smith ranch rd,94598,Single family home,Active,2005000.0,2022,4.0,3.5,3202.0,7574.0,0.0,0,41,71.0,Yes,0.0
+Ca,Contra-costa-county,Walnut creek,1958 amesbury ct,94596,Single family residential,New,1780000.0,1990,4.0,2.5,2284.0,9945.0,100.0,9,8,7.0,Yes,1815972.0
+Ca,Contra-costa-county,Martinez,101 morning glory ln,94553,Single family residential,Active,1050000.0,2001,5.0,3.0,2421.0,4400.0,109.0,8,48,45.0,Yes,1052393.0
+Ca,Contra-costa-county,Rodeo,1044 viewpoint blvd,94572,Single family residential,New,750000.0,1976,4.0,2.5,1673.0,6634.0,40.0,6,15,15.0,Yes,750876.0
+Ca,Contra-costa-county,Walnut creek,5 liberty ln,94597,Single family residential,New,1500000.0,1976,4.0,2.0,1973.0,9675.0,0.0,8,37,15.0,Yes,1507577.0
+Ca,Contra-costa-county,Discovery bay,2406 yosemite way,94505,Single family home,Active,899999.0,2002,5.0,4.5,3329.0,7400.0,205.0,7,3,40.0,Yes,907965.0
+Ca,Contra-costa-county,San ramon,2503 paddock dr,94583,Single family residential,New,1725000.0,1981,4.0,3.0,2282.0,7800.0,40.0,9,7,4.0,Yes,1753329.0
+Ca,Contra-costa-county,Hercules,112 crabapple ct,94547,Single family residential,New,879950.0,2004,3.0,2.5,1820.0,3302.0,122.0,7,38,33.0,Yes,890845.0
+Ca,Contra-costa-county,Concord,1505 kirker pass rd #138,94521,Condo,New,299888.0,1985,1.0,1.0,647.0,3302.0,377.0,6,82,56.0,Yes,301146.0
+Ca,Contra-costa-county,San ramon,406 s overlook,94582,Condo,New,749950.0,1988,2.0,2.0,1079.0,3302.0,517.0,9,32,25.0,Yes,750815.0
+Ca,Contra-costa-county,Pittsburg,16 petar ln,94565,Single family residential,Price change,629000.0,1976,4.0,2.0,1515.0,6400.0,0.0,5,21,41.0,Yes,653059.0
+Ca,Contra-costa-county,Brentwood,931 suntan ln,94513,Single family residential,New,765000.0,2004,2.0,2.5,2384.0,7848.0,155.0,9,10,45.0,Yes,786411.0
+Ca,Contra-costa-county,Concord,4219 cowell rd,94518,Single family residential,Active,809950.0,1956,3.0,2.0,1758.0,7200.0,0.0,6,52,37.0,Yes,828502.0
+Ca,Contra-costa-county,Concord,1033 bermuda dr,94518,Single family residential,Active,1130000.0,1963,4.0,2.0,2139.0,7500.0,0.0,5,46,68.0,Yes,1148869.0
+Ca,Contra-costa-county,Oakley,5062 sandmound blvd,94561,Single family residential,Active,668000.0,1953,2.0,1.0,1011.0,8235.0,0.0,6,1,35.0,No,673800.0
+Ca,Contra-costa-county,Richmond,3200 rheem ave,94804,Single family residential,Active,449000.0,1943,3.0,1.0,1950.0,4051.0,0.0,3,76,56.0,Yes,460988.0
+Ca,Contra-costa-county,Concord,1264 chelsea way,94521,Single family residential,Active,799000.0,1971,3.0,2.0,1357.0,8000.0,0.0,5,33,39.0,Yes,805141.0
+Ca,Contra-costa-county,Richmond,619 38th st,94805,Single family residential,Active,599000.0,1943,2.0,1.0,876.0,3800.0,0.0,3,79,70.0,Yes,640998.0
+Ca,Contra-costa-county,Danville,43 pulido ct,94526,Single family residential,New,1729000.0,1973,4.0,3.0,2835.0,11325.6,0.0,9,5,6.0,Yes,1720176.0
+Ca,Contra-costa-county,Richmond,960 7th st,94801,Single family residential,Active,480000.0,1924,2.0,1.0,1022.0,2823.0,0.0,3,59,60.0,Yes,480240.0
+Ca,Contra-costa-county,Martinez,368 eastgate ln #368,94553,Condo,Active,529000.0,1985,2.0,1.5,1085.0,518.0,504.0,8,50,38.0,No,0.0
+Ca,Contra-costa-county,Martinez,2254 hidden lakes ct,94553,Single family residential,New,899000.0,1976,3.0,2.5,1901.0,5900.0,0.0,8,26,58.0,Yes,0.0
+Ca,Contra-costa-county,Concord,2268 pepper dr,94520,Single family residential,New,572500.0,1947,3.0,1.0,1171.0,6435.0,0.0,3,57,53.0,Yes,597133.0
+Ca,Contra-costa-county,Antioch,1521 d st,94509,Single family residential,New,519900.0,1956,3.0,2.0,1247.0,9120.0,0.0,3,81,71.0,Yes,535009.0
+Ca,Contra-costa-county,Richmond,800 sonoma st,94805,Single family residential,Active,1050000.0,1961,5.0,3.0,2815.0,6000.0,0.0,5,44,32.0,Yes,1132021.0
+Ca,Contra-costa-county,Walnut creek,203 ludell dr,94597,Single family residential,Active,1139000.0,1962,3.0,2.0,1700.0,10890.0,0.0,5,63,72.0,Yes,1139522.0
+Ca,Contra-costa-county,Walnut creek,3183 wayside plz #307,94597,Condo,New,500000.0,1985,2.0,2.0,968.0,10890.0,525.0,5,61,72.0,Yes,499622.0
+Ca,Contra-costa-county,El sobrante,24 valley view ct,94803,Single family home,Active,1032000.0,1972,3.0,3.0,2481.0,13068.0,0.0,4,29,16.0,Yes,1025053.0
+Ca,Contra-costa-county,Pleasant hill,1724 mary dr,94523,Single family residential,Active,1275000.0,1951,4.0,3.0,2321.0,8800.0,0.0,8,41,71.0,Yes,1285204.0
+Ca,Contra-costa-county,Concord,2201 grovenor ln,94520,Single family residential,Active,949000.0,1960,5.0,3.5,2067.0,6000.0,0.0,3,35,41.0,Yes,970397.0
+Ca,Contra-costa-county,Antioch,1909 strasbourg ln,94509,Mobile/manufactured home,New,222500.0,1960,2.0,2.0,1232.0,6000.0,0.0,3,18,47.0,Yes,221298.0
+Ca,Contra-costa-county,Antioch,4867 cushendall way,94531,Single family residential,Active,855000.0,2010,4.0,3.0,2152.0,6800.0,0.0,9,55,34.0,Yes,861084.0
+Ca,Contra-costa-county,Antioch,4512 deer ridge way,94531,Single family home,Active,649888.0,1989,5.0,3.0,1929.0,5290.0,0.0,5,20,28.0,Yes,654722.0
+Ca,Contra-costa-county,Crockett,530 alhambra st,94525,Single family residential,New,795000.0,1900,5.0,3.0,2268.0,5000.0,0.0,6,43,17.0,No,818231.0
+Ca,Contra-costa-county,San ramon,3021 oakham dr,94583,Single family residential,New,1499000.0,1976,4.0,3.0,2750.0,10400.0,0.0,9,23,60.0,Yes,1503231.0
+Ca,Contra-costa-county,Antioch,2808 wildflower dr,94531,Single family residential,Active,649900.0,1987,4.0,2.5,1831.0,8880.0,61.0,5,51,42.0,Yes,654232.0
+Ca,Contra-costa-county,Richmond,5520 sutter ave,94804,Single family residential,Active,695000.0,1941,2.0,1.0,861.0,5000.0,0.0,5,75,69.0,Yes,0.0
+Ca,Contra-costa-county,Hercules,100 camden ln,94547,Single family residential,New,928000.0,2001,5.0,4.5,2811.0,4866.0,101.0,7,32,61.0,Yes,931253.0
+Ca,Contra-costa-county,Brentwood,451 effie ct,94513,Single family residential,New,858000.0,2010,5.0,3.0,2458.0,7150.0,0.0,7,49,54.0,Yes,864283.0
+Ca,Contra-costa-county,San ramon,9074 craydon cir,94583,Townhouse,Back on market,375000.0,1963,1.0,1.0,612.0,850.0,411.0,9,18,45.0,Yes,387146.0
+Ca,Contra-costa-county,Discovery bay,6152 seneca cir,94505,Single family residential,Coming soon,749000.0,2005,4.0,3.5,3425.0,8265.0,175.0,7,2,35.0,Yes,0.0
+Ca,Contra-costa-county,Antioch,3001 hickorynut st,94509,Single family residential,Active,659540.0,2022,4.0,2.5,1631.0,5288.0,299.0,5,17,38.0,Yes,661698.0
+Ca,Contra-costa-county,Pleasant hill,820 golf club cir,94523,Single family residential,Active,999000.0,1953,5.0,3.0,1906.0,4032.0,0.0,9,14,42.0,No,997401.0
+Ca,Contra-costa-county,Brentwood,580 ash st,94513,Single family residential,Active,770000.0,2001,4.0,2.5,1966.0,4000.0,0.0,7,54,56.0,Yes,778749.0
+Ca,Contra-costa-county,Martinez,2005 fries ct,94553,Single family residential,Price change,919000.0,1992,4.0,3.0,2187.0,6100.0,0.0,8,19,28.0,Yes,944674.0
+Ca,Contra-costa-county,Antioch,5629 leitrim way,94531,Single family residential,New,798800.0,2005,5.0,3.0,2380.0,6131.0,0.0,9,34,48.0,Yes,801674.0
+Ca,Contra-costa-county,Richmond,1521 24th st,94806,Single family residential,Active,624990.0,1957,3.0,1.0,1105.0,3920.0,0.0,3,83,53.0,Yes,643473.0
+Ca,Contra-costa-county,Martinez,350 lakehurst dr,94553,Single family residential,Active,795000.0,1983,3.0,2.5,1382.0,2904.0,0.0,8,20,37.0,Yes,813347.0
+Ca,Contra-costa-county,San ramon,2851 via cordoba,94583,Single family residential,Active,1895000.0,1976,4.0,3.0,2518.0,14374.800000000001,39.0,9,5,2.0,Yes,1896668.0
+Ca,Contra-costa-county,Discovery bay,1836 dolphin ct,94505,Single family residential,Active,998800.0,1986,3.0,3.0,1807.0,7686.0,0.0,7,33,34.0,Yes,1004658.0
+Ca,Contra-costa-county,Antioch,3136 hemlock st,94509,Single family home,Active,549888.0,1977,3.0,2.0,1256.0,3120.0,0.0,3,36,59.0,Yes,560145.0
+Ca,Contra-costa-county,Oakley,77 ottawa,94561,Mobile/manufactured home,Active,118000.0,1977,2.0,1.0,800.0,3120.0,0.0,5,67,46.0,Yes,117908.0
+Ca,Contra-costa-county,Dublin,8896 bellina cmns,94568,Condo,Active,898888.0,2006,3.0,2.5,1596.0,3120.0,260.0,9,67,64.0,Yes,903835.0
+Ca,Contra-costa-county,Martinez,141 ladybug ln,94553,Single family residential,Active,795000.0,2015,3.0,2.5,1516.0,2718.0,118.0,7,21,14.0,Yes,804007.0
+Ca,Contra-costa-county,Danville,177 elworthy ranch dr,94526,Single family residential,New,1299999.0,2014,3.0,2.5,1804.0,2902.0,200.0,9,15,16.0,Yes,1363385.0
+Ca,Contra-costa-county,Antioch,4587 donegal way,94531,Single family residential,Active,799950.0,2014,5.0,3.0,2764.0,8280.0,0.0,5,22,34.0,Yes,806231.0
+Ca,Contra-costa-county,Antioch,2405 shadow ln #87,94509,Condo,New,289000.0,1979,2.0,2.0,944.0,8280.0,440.0,3,53,56.0,Yes,289735.0
+Ca,Contra-costa-county,Concord,1872 queens rd,94519,Single family residential,New,799000.0,1960,4.0,3.0,1549.0,7080.0,0.0,6,50,75.0,Yes,800243.0
+Ca,Contra-costa-county,Concord,2161 northwood cir unit e,94520,Townhouse,New,425000.0,1979,2.0,1.5,1000.0,7080.0,442.0,3,52,49.0,Yes,424334.0
+Ca,Contra-costa-county,El cerrito,975 leneve pl,94530-2749,Single family residential,New,1298000.0,1959,4.0,2.0,2132.0,7575.0,0.0,7,11,13.0,Yes,1561074.0
+Ca,Contra-costa-county,Concord,2150 northwood cir unit b,94520,Condo,Active,429000.0,1979,2.0,1.5,1000.0,7575.0,442.0,3,37,46.0,No,429497.0
+Ca,Contra-costa-county,Antioch,1294 mokelumne dr,94531,Single family residential,Active,795000.0,1998,5.0,3.0,3057.0,8200.0,0.0,5,2,1.0,Yes,799454.0
+Ca,Contra-costa-county,Bay point,124 maureen cir #124,94565,Mobile/manufactured home,New,150000.0,1998,2.0,2.0,1344.0,8200.0,0.0,5,14,51.0,Yes,150102.0
+Ca,Contra-costa-county,Martinez,202 miller ave,94553,Single family residential,Active,585000.0,1916,2.0,2.0,826.0,2000.0,0.0,7,56,37.0,Yes,586134.0
+Ca,Contra-costa-county,Richmond,43 collins ct,94801,Condo,New,225000.0,1942,2.0,1.0,781.0,2000.0,425.0,4,60,74.0,Yes,225554.0
+Ca,Contra-costa-county,Walnut creek,2623 smith ranch rd,94598,Single family home,Active,1675000.0,2022,4.0,2.5,2544.0,8020.0,0.0,0,41,71.0,Yes,0.0
+Ca,Contra-costa-county,Richmond,322 s 37th st,94804,Single family residential,Active,585000.0,1943,2.0,1.0,720.0,7500.0,0.0,4,68,71.0,Yes,586207.0
+Ca,Contra-costa-county,Walnut creek,40 iris ln,94595,Single family residential,New,1859000.0,1952,4.0,4.0,2092.0,10200.0,0.0,9,48,44.0,Yes,1863406.0
+Ca,Contra-costa-county,Richmond,2417 groveview,94806,Townhouse,Active,575000.0,1986,2.0,2.5,1319.0,662.0,470.0,4,30,23.0,Yes,592896.0
+Ca,Contra-costa-county,Richmond,3449 stewarton dr,94803,Single family residential,New,899000.0,1962,4.0,3.0,1980.0,8750.0,0.0,4,45,20.0,Yes,899115.0
+Ca,Contra-costa-county,El cerrito,2218 humboldt,94530,Single family residential,Active,849000.0,1952,2.0,1.0,878.0,2500.0,0.0,5,82,67.0,Yes,855889.0
+Ca,Contra-costa-county,Richmond,2722 carlson blvd,94804,Single family residential,Active,799000.0,1953,2.0,1.0,874.0,2500.0,0.0,5,91,90.0,Yes,857567.0
+Ca,Contra-costa-county,Richmond,6044 bernhard ave,94805,Single family residential,Active,750000.0,1936,2.0,2.0,1082.0,4750.0,0.0,5,30,23.0,Yes,758405.0
+Ca,Contra-costa-county,Pittsburg,8 del rio,94565,Mobile/manufactured home,Active,269999.0,1936,3.0,2.0,1430.0,4750.0,0.0,5,11,31.0,Yes,268396.0
+Ca,Contra-costa-county,Pacheco,344 via peralta #41,94553-5271,Mobile/manufactured home,New,325000.0,1936,3.0,2.0,1576.0,4750.0,0.0,8,5,36.0,Yes,323871.0
+Ca,Contra-costa-county,Antioch,4508 muledeer ct,94509,Single family residential,Active,689000.0,1995,4.0,2.5,2279.0,6640.0,0.0,5,29,61.0,Yes,688813.0
+Ca,Contra-costa-county,Martinez,1150 santa fe ave,94553,Single family residential,New,649950.0,1924,2.0,2.0,1225.0,7620.0,0.0,7,46,36.0,Yes,657724.0
+Ca,Contra-costa-county,Antioch,5069 tehachapi way,94531,Single family residential,New,649888.0,1994,3.0,2.0,1594.0,5428.0,0.0,5,39,22.0,Yes,657697.0
+Ca,Contra-costa-county,Richmond,1649 aqua vista rd,94805,Single family residential,New,895000.0,1950,3.0,2.5,1708.0,7500.0,0.0,5,39,17.0,Yes,1000026.0
+Ca,Contra-costa-county,Oakley,188 lavender way,94561,Single family residential,New,789888.0,2012,5.0,3.0,2579.0,5352.0,0.0,7,31,57.0,Yes,792805.0
+Ca,Contra-costa-county,Richmond,2163 la mirada dr,94803,Single family residential,Price change,815000.0,1959,3.0,2.5,1832.0,5500.0,0.0,4,11,9.0,Yes,919803.0
+Ca,Contra-costa-county,Brentwood,327 upton pyne dr,94513,Single family residential,New,689000.0,1999,2.0,2.5,1905.0,6359.0,115.0,9,12,37.0,Yes,698843.0
+Ca,Contra-costa-county,Oakley,721 almond dr,94561,Single family residential,Price change,645000.0,1982,4.0,2.5,1872.0,6565.0,0.0,6,35,54.0,Yes,647356.0
+Ca,Contra-costa-county,Richmond,4980 rocky rd,94803,Single family residential,New,1075000.0,1983,4.0,2.5,2795.0,9180.0,0.0,4,6,5.0,Yes,1108569.0
+Ca,Contra-costa-county,Walnut creek,2712 oak rd #59,94597,Condo,New,550000.0,1972,3.0,2.0,1181.0,9180.0,519.0,9,64,76.0,Yes,549262.0
+Ca,Contra-costa-county,Danville,4121 fox creek ct,94506,Single family residential,New,2680000.0,1988,4.0,3.5,3500.0,8600.0,189.0,9,0,0.0,Yes,2676895.0
+Ca,Contra-costa-county,Concord,4048 lillian dr,94521,Single family residential,New,899000.0,1951,4.0,3.0,1729.0,14374.800000000001,0.0,6,42,49.0,Yes,897583.0
+Ca,Contra-costa-county,Pinole,1713 dalessi dr,94564-222,Condo,Active,435000.0,1981,2.0,2.5,1254.0,14374.800000000001,500.0,4,55,38.0,Yes,432773.0
+Ca,Contra-costa-county,Brentwood,1881 ogden pl,94513,Single family residential,New,680000.0,2001,2.0,2.0,1845.0,6300.0,145.0,9,8,38.0,Yes,683723.0
+Ca,Contra-costa-county,Hercules,290 carson st,94547,Single family residential,New,849000.0,1989,3.0,2.0,1727.0,8000.0,89.0,7,12,5.0,Yes,900011.0
+Ca,Contra-costa-county,Concord,2827 monument blvd #51,94520,Condo,Active,299000.0,1985,1.0,1.0,611.0,8000.0,349.0,4,58,70.0,Yes,299911.0
+Ca,Contra-costa-county,Danville,10 ross ct,94526,Single family residential,Back on market,2998000.0,2006,6.0,4.5,3660.0,13503.6,95.0,9,7,49.0,Yes,3006183.0
+Ca,Contra-costa-county,Pinole,2930 wright ave,94564,Single family residential,Active,899900.0,1967,4.0,2.0,1998.0,7650.0,0.0,5,8,3.0,Yes,901704.0
+Ca,Contra-costa-county,Martinez,1612 ashwood dr,94553,Townhouse,New,475000.0,1975,3.0,2.5,1338.0,1128.0,455.0,8,15,35.0,Yes,480362.0
+Ca,Contra-costa-county,El cerrito,5401 macdonald ave,94530,Single family residential,New,1229000.0,1945,3.0,2.0,1139.0,5600.0,0.0,5,75,55.0,Yes,1298529.0
+Ca,Contra-costa-county,Antioch,4794 hawkins st,94531,Single family residential,Active,739000.0,2015,5.0,4.0,2661.0,6708.0,0.0,5,17,20.0,Yes,750179.0
+Ca,Contra-costa-county,Richmond,2619 mcbryde,94806,Single family residential,New,489000.0,1952,2.0,1.0,870.0,2500.0,0.0,3,71,56.0,Yes,500780.0
+Ca,Contra-costa-county,Richmond,17 s 45th st,94804,Single family residential,New,799000.0,1972,3.0,2.0,1204.0,6200.0,0.0,2,66,78.0,Yes,797129.0
+Ca,Contra-costa-county,Concord,1739 agadir ct,94518,Single family residential,Active,985000.0,1960,5.0,3.0,1813.0,7252.0,0.0,4,17,36.0,Yes,991501.0
+Ca,Contra-costa-county,Antioch,5475 alvar loop,94531,Single family residential,New,800000.0,2020,4.0,3.0,2339.0,4001.0,162.0,9,45,49.0,Yes,812163.0
+Ca,Contra-costa-county,Walnut creek,1127 calder ln,94598,Single family residential,Active,1895000.0,1983,4.0,3.0,2915.0,7500.0,0.0,9,33,33.0,Yes,1906822.0
+Ca,Contra-costa-county,Discovery bay,4093 s anchor ct,94505,Single family residential,New,699900.0,1997,4.0,2.5,1856.0,4890.0,0.0,7,16,31.0,Yes,702229.0
+Ca,Contra-costa-county,Brentwood,627 ray ct,94513,Single family residential,Active,874900.0,2014,4.0,3.0,3008.0,7297.0,0.0,7,19,56.0,Yes,881126.0
+Ca,Contra-costa-county,Antioch,2833 stamm dr,94509,Single family residential,New,525000.0,1952,3.0,2.0,1780.0,5336.0,0.0,3,48,17.0,Yes,525920.0
+Ca,Contra-costa-county,Pittsburg,1734 bridlewood dr,94565,Single family residential,Active,820000.0,2003,5.0,3.0,3643.0,6925.0,0.0,4,29,15.0,Yes,833171.0
+Ca,Contra-costa-county,San ramon,1044 canyon hills rd,94582,Single family residential,New,1748000.0,1986,3.0,3.0,2510.0,6930.0,201.0,9,25,32.0,Yes,1739607.0
+Ca,Contra-costa-county,Oakley,4651 winchester dr,94561,Single family residential,Price change,869900.0,2002,6.0,4.0,3402.0,9199.0,0.0,7,17,43.0,Yes,878449.0
+Ca,Contra-costa-county,Pleasant hill,116 hardy cir,94523,Single family residential,Active,1460000.0,1947,3.0,2.5,1638.0,12632.4,0.0,8,24,60.0,Yes,1461766.0
+Ca,Contra-costa-county,Brentwood,508 encore way,94513,Single family residential,Active,624988.0,2002,2.0,2.0,1598.0,4844.0,155.0,9,22,52.0,Yes,628739.0
+Ca,Contra-costa-county,Brentwood,752 campanello way,94513,Single family residential,Active,895000.0,2000,4.0,3.0,2748.0,8000.0,0.0,7,23,60.0,Yes,901284.0
+Ca,Contra-costa-county,Walnut creek,2110 oak grove rd,94598,Single family residential,Active,1195000.0,1975,3.0,2.0,1288.0,8400.0,0.0,9,76,74.0,Yes,1206073.0
+Ca,Contra-costa-county,Discovery bay,4945 north pt,94505,Single family residential,Active,998800.0,1980,3.0,2.0,2021.0,7200.0,0.0,7,40,36.0,Yes,1001998.0
+Ca,Contra-costa-county,Danville,3649 deer trail dr,94506,Single family residential,New,2599800.0,1989,5.0,3.0,4022.0,7150.0,189.0,9,0,3.0,Yes,2678424.0
+Ca,Contra-costa-county,Walnut creek,1251 homestead ave #143,94598,Condo,New,548000.0,1970,2.0,2.0,944.0,7150.0,364.0,9,51,64.0,Yes,549224.0
+Ca,Contra-costa-county,Walnut creek,1246 walker ave #305,94596,Condo,New,359000.0,1971,1.0,1.0,490.0,7150.0,422.0,9,87,76.0,Yes,359425.0
+Ca,Contra-costa-county,Concord,5555 michigan blvd,94521,Single family residential,Active,765000.0,1960,3.0,1.0,1018.0,7000.0,0.0,8,54,36.0,Yes,767437.0
+Ca,Contra-costa-county,Richmond,3106 moyers rd,94806,Single family residential,New,524950.0,1955,4.0,2.0,1165.0,6000.0,0.0,4,26,21.0,Yes,530050.0
+Ca,Contra-costa-county,Moraga,144 ascot ct #3,94556,Condo,New,509950.0,1971,2.0,2.0,945.0,6000.0,520.0,9,23,39.0,Yes,513140.0
+Ca,Contra-costa-county,Danville,926 richard ln,94526,Single family residential,New,2008888.0,1985,4.0,3.0,2689.0,15245.999999999998,0.0,9,25,23.0,Yes,2001499.0
+Ca,Contra-costa-county,Walnut creek,300 fenway dr,94598,Single family residential,Active,1749000.0,1960,4.0,2.0,2504.0,13939.2,0.0,9,49,86.0,Yes,1834427.0
+Ca,Contra-costa-county,Moraga,264 sandringham dr,94556,Single family residential,Active,1699000.0,1989,3.0,2.5,1901.0,13939.2,0.0,9,45,35.0,Yes,1745029.0
+Ca,Contra-costa-county,Lafayette,3272 marlene dr,94549-4724,Condo,New,779000.0,1972,3.0,1.5,1160.0,13939.2,495.0,9,54,49.0,Yes,792686.0
+Ca,Contra-costa-county,Pittsburg,49 manville ave,94565,Single family residential,New,469000.0,1941,2.0,1.0,922.0,5000.0,0.0,4,83,52.0,Yes,473793.0
+Ca,Contra-costa-county,Walnut creek,502 chives way,94595,Condo,Active,1178000.0,2018,3.0,2.5,1610.0,7997.0,226.0,9,44,15.0,Yes,0.0
+Ca,Contra-costa-county,Oakley,497 vinewood dr,94561-2254,Single family residential,New,650000.0,1986,3.0,3.0,1940.0,10287.0,0.0,6,28,53.0,Yes,651220.0
+Ca,Contra-costa-county,Bay point,111 maureen cir,94565,Mobile/manufactured home,Active,334655.0,1986,3.0,2.0,1512.0,10287.0,0.0,5,10,48.0,No,334298.0
+Ca,Contra-costa-county,Oakley,50 fuschia ct,94561,Single family residential,Active,715000.0,2022,4.0,3.0,2099.0,6244.0,0.0,6,41,54.0,Yes,712749.0
+Ca,Contra-costa-county,Moraga,137 tharp dr,94556,Single family residential,New,1946000.0,1964,4.0,2.0,1857.0,10500.0,0.0,9,3,20.0,Yes,1944337.0
+Ca,Contra-costa-county,Richmond,5104 cypress ave,94804,Single family residential,Active,749000.0,1962,4.0,2.0,1735.0,4410.0,0.0,5,75,77.0,Yes,751105.0
+Ca,Contra-costa-county,El cerrito,444 richmond st,94530,Single family residential,Active,1195000.0,2019,4.0,3.0,1300.0,3700.0,0.0,5,92,92.0,Yes,0.0
+Ca,Contra-costa-county,Crockett,725 edwards st,94525,Single family residential,New,699000.0,1910,3.0,2.0,2043.0,5000.0,0.0,6,42,18.0,Yes,0.0
+Ca,Contra-costa-county,Antioch,2416 shadow ln #76,94509,Condo,Active,255000.0,1979,1.0,1.0,635.0,701.0,440.0,3,53,56.0,No,255318.0
+Ca,Contra-costa-county,Clayton,1045 pebble beach dr,94517,Single family residential,Active,1799900.0,1998,5.0,4.5,4018.0,11325.6,0.0,8,6,2.0,Yes,1811626.0
+Ca,Contra-costa-county,Concord,3641 clayton rd #9,94521,Condo,Active,395000.0,1981,2.0,1.0,800.0,11325.6,350.0,6,74,43.0,Yes,396365.0
+Ca,Contra-costa-county,Antioch,3210 westbourne dr,94509,Single family residential,New,599950.0,1977,3.0,2.0,1434.0,6936.0,0.0,3,36,40.0,Yes,603089.0
+Ca,Contra-costa-county,Richmond,1606 mariposa st,94804,Single family residential,Active,599000.0,1947,2.0,1.0,1120.0,3750.0,0.0,5,75,51.0,Yes,659261.0
+Ca,Contra-costa-county,Pittsburg,2214 westgate dr,94565,Single family residential,New,599000.0,1980,3.0,2.5,1621.0,3848.0,130.0,4,80,65.0,Yes,593502.0
+Ca,Contra-costa-county,El cerrito,10300 san pablo ave #405,94530,Condo,Active,699000.0,2021,2.0,1.5,882.0,3848.0,518.0,5,93,90.0,No,698400.0
+Ca,Contra-costa-county,San ramon,148 e ridge dr,94582,Condo,New,639000.0,1988,2.0,1.0,985.0,985.0,389.0,9,16,22.0,No,649342.0
+Ca,Contra-costa-county,Concord,1763 woodcrest dr,94521,Single family residential,Active,1099888.0,1965,4.0,3.0,1840.0,8000.0,0.0,6,41,51.0,Yes,1100601.0
+Ca,Contra-costa-county,Brentwood,1624 regent dr,94513,Single family residential,Active,524950.0,2001,2.0,2.0,1048.0,4921.0,145.0,9,7,40.0,Yes,532801.0
+Ca,Contra-costa-county,Martinez,4103 cabrilho dr,94553,Single family residential,Active,525000.0,1966,3.0,1.5,952.0,4980.0,0.0,7,6,16.0,Yes,524834.0
+Ca,Contra-costa-county,San ramon,160 eastridge dr,94582,Condo,New,499000.0,1988,1.0,1.0,730.0,730.0,389.0,9,16,22.0,No,498642.0
+Ca,Contra-costa-county,Richmond,94 shoreline ct,94804,Condo,Active-reo,369900.0,1990,1.0,1.0,549.0,2125.0,500.0,4,24,61.0,Yes,368580.0
+Ca,Contra-costa-county,Pinole,870 sunnyview dr,94564,Single family residential,Active-reo,699000.0,1954,3.0,1.0,913.0,6600.0,0.0,5,61,26.0,Yes,715394.0
+Ca,Contra-costa-county,Pittsburg,3210 cortina dr,94565,Single family residential,Active,965630.0,2022,5.0,4.0,2806.0,6814.0,0.0,4,2,1.0,Yes,969192.0
+Ca,Contra-costa-county,Antioch,605 bluerock dr,94509,Single family residential,Active,689000.0,1986,4.0,2.5,2152.0,6120.0,0.0,5,22,28.0,Yes,702405.0
+Ca,Contra-costa-county,El cerrito,7701 errol dr,94530,Single family residential,New,1399888.0,1954,3.0,2.0,1674.0,6960.0,0.0,5,43,32.0,Yes,0.0
+Ca,Contra-costa-county,Martinez,2437 alhambra ave,94553,Single family residential,Active,579000.0,1927,2.0,1.0,1056.0,4050.0,0.0,7,59,27.0,Yes,586173.0
+Ca,Contra-costa-county,Discovery bay,636 mystic ct,94505,Single family residential,New,729000.0,2007,3.0,3.0,2297.0,5267.0,175.0,7,5,38.0,Yes,732760.0
+Ca,Contra-costa-county,Dublin,7367 diamond mountain rd,94568,Single family residential,New,2549888.0,2017,4.0,4.0,3627.0,4790.0,232.0,9,1,18.0,Yes,2562855.0
+Ca,Contra-costa-county,Hercules,333 n wildwood,94547,Townhouse,New,575000.0,1988,3.0,2.5,1413.0,1124.0,500.0,7,34,33.0,Yes,586561.0
+Ca,Contra-costa-county,Pinole,1789 sarah dr,94564,Single family residential,Active,749000.0,1961,3.0,2.0,1240.0,6299.0,0.0,5,65,29.0,Yes,761869.0
+Ca,Contra-costa-county,Clayton,138 mt everest ct,94517,Single family residential,New,998000.0,1977,5.0,2.5,2694.0,13068.0,67.0,9,6,3.0,Yes,1015633.0
+Ca,Contra-costa-county,Moraga,22 lance ct,94556,Single family residential,New,2075000.0,1961,4.0,2.5,2720.0,10640.0,0.0,9,29,47.0,Yes,2114925.0
+Ca,Contra-costa-county,Pittsburg,9 mill springs ct,94565,Single family residential,Active,765000.0,2004,4.0,2.0,2241.0,6703.0,0.0,4,30,12.0,Yes,770029.0
+Ca,Contra-costa-county,Moraga,92 warfield dr,94556,Single family residential,Active,2050000.0,1966,5.0,3.0,2527.0,16988.4,0.0,9,7,3.0,Yes,2090899.0
+Ca,Contra-costa-county,Rodeo,10 london ln,94572,Single family residential,New,974000.0,2022,3.0,2.5,2031.0,4850.0,0.0,0,4,8.0,Yes,0.0
+Ca,Contra-costa-county,Antioch,1212 oak haven way,94531,Single family residential,Active,759000.0,2000,4.0,2.5,2369.0,8905.0,0.0,5,7,1.0,Yes,765321.0
+Ca,Contra-costa-county,Antioch,4600 goldcrest way,94531,Single family residential,Active,550000.0,1988,3.0,2.0,1310.0,5658.0,0.0,5,35,57.0,Yes,553578.0
+Ca,Contra-costa-county,El cerrito,2441 mira vista dr,94530,Single family residential,Active,1195000.0,1956,3.0,2.0,2117.0,7015.0,0.0,5,58,33.0,Yes,1353656.0
+Ca,Contra-costa-county,Pittsburg,1202 jewett ave,94565,Single family residential,Active,575000.0,1969,4.0,2.0,1554.0,7000.0,0.0,4,57,39.0,Yes,577888.0
+Ca,Contra-costa-county,Oakley,5 geneseo #5,94561,Mobile/manufactured home,Active,225000.0,1969,2.0,2.0,882.0,7000.0,0.0,5,66,45.0,No,223404.0
+Ca,Contra-costa-county,Discovery bay,5633 drakes dr,94505,Single family residential,Active,1575000.0,1988,3.0,2.5,2930.0,7200.0,0.0,7,13,36.0,Yes,1578635.0
+Ca,Contra-costa-county,Discovery bay,2380 wayfarer dr,94505,Single family residential,New,639500.0,1990,2.0,2.0,1632.0,8100.0,135.0,7,3,32.0,Yes,640261.0
+Ca,Contra-costa-county,Pleasant hill,10 wood creek pl,94523,Single family residential,New,1498000.0,1990,4.0,2.5,2220.0,13503.6,0.0,8,46,67.0,Yes,1576952.0
+Ca,Contra-costa-county,Concord,3214 david ct,94519,Single family residential,Active,775000.0,1950,3.0,1.0,1188.0,11761.2,0.0,5,67,76.0,Yes,779279.0
+Ca,Contra-costa-county,Concord,2831 minert rd,94518,Single family residential,New,1079000.0,1967,4.0,2.0,1694.0,6000.0,0.0,5,36,48.0,Yes,1083391.0
+Ca,Contra-costa-county,Lafayette,630 francis dr,94549,Single family residential,Active,1395000.0,1967,4.0,2.0,2180.0,11325.6,0.0,7,11,10.0,Yes,1402323.0
+Ca,Contra-costa-county,Brentwood,1203 landover ct,94513,Single family residential,Price change,839900.0,2001,4.0,3.5,3178.0,7700.0,0.0,9,24,43.0,Yes,870582.0
+Ca,Contra-costa-county,Richmond,3640 black feather dr,94803,Single family residential,Active,849000.0,1982,3.0,2.0,1488.0,9000.0,0.0,4,5,5.0,Yes,873450.0
+Ca,Contra-costa-county,Brentwood,2532 winged foot rd,94513,Single family residential,New,908000.0,2005,4.0,2.5,2849.0,8647.0,0.0,9,1,0.0,Yes,915693.0
+Ca,Contra-costa-county,San ramon,788 via palermo,94583,Single family residential,New,2349000.0,2018,4.0,3.0,3059.0,5000.0,175.0,9,24,9.0,Yes,2369864.0
+Ca,Contra-costa-county,San ramon,7525 imperata ln,94582,Townhouse,Active,1199888.0,2000,3.0,2.5,1419.0,1980.0,277.0,8,21,26.0,Yes,1203362.0
+Ca,Contra-costa-county,Danville,321 mashona ct,94506,Single family residential,New,1848000.0,2014,4.0,2.5,2509.0,7134.0,125.0,9,6,17.0,Yes,1850251.0
+Ca,Contra-costa-county,Antioch,5132 carriage way,94531,Single family residential,New,690000.0,1990,4.0,3.0,2485.0,8715.0,0.0,5,7,19.0,Yes,691302.0
+Ca,Contra-costa-county,Rodeo,91 bonita pl,94572,Single family residential,New,688888.0,1979,4.0,2.0,1405.0,6348.0,42.0,6,46,28.0,Yes,693119.0
+Ca,Contra-costa-county,Orinda,40 camino don miguel,94563,Single family residential,New,1800000.0,1955,3.0,2.0,1694.0,13503.6,0.0,9,4,9.0,Yes,1809723.0
+Ca,Contra-costa-county,Antioch,2423 whitetail dr,94531,Single family residential,Active,799000.0,1994,4.0,2.0,2159.0,6810.0,0.0,5,23,28.0,Yes,797170.0
+Ca,Contra-costa-county,San pablo,117 zandra,94806,Single family residential,Active,675000.0,1963,3.0,2.0,1187.0,9100.0,0.0,5,43,20.0,Yes,685644.0
+Ca,Contra-costa-county,Richmond,151 s 35th st,94804,Single family residential,Active,688000.0,1940,4.0,2.0,1430.0,5000.0,0.0,2,75,82.0,Yes,0.0
+Ca,Contra-costa-county,Hercules,115 decatur ct,94547,Single family residential,Active,998000.0,1989,3.0,2.5,2217.0,7009.0,85.0,7,9,3.0,Yes,1004277.0
+Ca,Contra-costa-county,El sobrante,2 harrison ct,94803,Single family residential,Active,899950.0,1992,4.0,2.5,1777.0,7526.0,0.0,4,38,23.0,Yes,917992.0
+Ca,Contra-costa-county,Concord,1367 coventry rd,94518,Single family residential,Active,650000.0,1949,3.0,1.0,1010.0,8599.0,0.0,5,48,77.0,Yes,658716.0
+Ca,Contra-costa-county,Concord,1501 criquet ct,94518,Single family residential,Active,879950.0,1971,3.0,2.0,1387.0,8400.0,0.0,4,15,43.0,Yes,888992.0
+Ca,Contra-costa-county,Antioch,618 w 14th st,94509-2233,Single family residential,New,425000.0,1938,2.0,1.0,988.0,4000.0,0.0,3,73,62.0,Yes,429726.0
+Ca,Contra-costa-county,Danville,419 oneida ct,94526,Townhouse,New,1234900.0,1984,3.0,2.0,1664.0,2760.0,395.0,9,39,42.0,Yes,1243335.0
+Ca,Contra-costa-county,Concord,3348 esperanza dr,94519,Single family residential,Active,724000.0,1953,3.0,1.0,1169.0,5400.0,27.0,3,54,55.0,Yes,726515.0
+Ca,Contra-costa-county,El sobrante,12 n rancho ct,94803,Single family home,Active,1200000.0,1991,5.0,3.5,3192.0,9963.0,60.0,4,5,5.0,Yes,1206286.0
+Ca,Contra-costa-county,Pleasant hill,154 flame dr,94523,Single family residential,New,979000.0,1981,3.0,2.0,1802.0,5000.0,26.0,8,63,59.0,Yes,978310.0
+Ca,Contra-costa-county,Brentwood,869 greenstone,94513,Single family residential,New,943950.0,2022,4.0,3.5,2246.0,7013.0,0.0,7,58,63.0,Yes,945557.0
+Ca,Contra-costa-county,Walnut creek,1983 olmo way,94598,Townhouse,New,739000.0,1973,2.0,2.5,1227.0,1044.0,430.0,9,67,86.0,Yes,753740.0
+Ca,Contra-costa-county,Danville,589 zephyr cir,94526,Single family residential,New,2198000.0,1973,6.0,3.0,2928.0,7100.0,120.0,9,18,59.0,Yes,2262573.0
+Ca,Contra-costa-county,Richmond,5222 heavenly ridge ln,94803,Single family residential,New,1099000.0,1978,6.0,3.5,2930.0,9000.0,0.0,4,17,0.0,Yes,1126656.0
+Ca,Contra-costa-county,Antioch,1618 wisner dr,94509,Single family residential,New,487777.0,1940,2.0,2.0,1231.0,4000.0,0.0,3,82,60.0,Yes,491070.0
+Ca,Contra-costa-county,Oakland,2121 manzanita,94611,Single family residential,New,1195000.0,1971,3.0,2.5,2342.0,4500.0,0.0,8,10,22.0,Yes,1411835.0
+Ca,Contra-costa-county,Pleasant hill,218 babette ct,94523-0000,Single family residential,Active,695000.0,1953,3.0,1.0,987.0,7130.0,0.0,8,58,73.0,Yes,701203.0
+Ca,Contra-costa-county,Orinda,619 watchwood rd,94563-2722,Single family residential,New,1849000.0,1987,3.0,2.0,2050.0,5000.0,245.0,9,49,49.0,Yes,0.0
+Ca,Contra-costa-county,Antioch,2709 carpinteria dr,94531,Single family residential,Active,549500.0,1984,3.0,2.0,1067.0,4370.0,0.0,5,23,24.0,Yes,553345.0
+Ca,Contra-costa-county,Pacheco,1171 raymond dr,94553,Single family residential,New,699000.0,1955,3.0,2.0,1225.0,6000.0,0.0,8,47,59.0,Yes,696409.0
+Ca,Contra-costa-county,Danville,1111 river rock ln,94526,Single family residential,Active,1349000.0,1996,3.0,2.5,1544.0,2000.0,290.0,9,75,83.0,Yes,1378034.0
+Ca,Contra-costa-county,Richmond,106 lakeshore ct,94804,Condo,Price change,489000.0,1991,2.0,1.0,869.0,2125.0,456.0,4,24,61.0,No,489831.0
+Ca,Contra-costa-county,Pittsburg,23 santa lucia ct,94565,Single family residential,Active,795000.0,1991,4.0,3.0,2672.0,5840.0,0.0,4,14,7.0,Yes,808372.0
+Ca,Contra-costa-county,Antioch,1305 louis dr,94509,Single family residential,New,510000.0,1951,3.0,2.0,1841.0,5590.0,0.0,3,75,61.0,Yes,511786.0
+Ca,Contra-costa-county,San ramon,2660 shadow mountain dr,94583,Townhouse,Active,899000.0,1975,2.0,2.0,1427.0,2904.0,425.0,9,77,56.0,No,898374.0
+Ca,Contra-costa-county,Pittsburg,143 navy st,94565,Single family residential,New,648000.0,1943,4.0,2.5,1548.0,4472.0,0.0,4,65,47.0,No,645609.0
+Ca,Contra-costa-county,Concord,1610 nicholas dr,94520-4212,Single family residential,Active,600000.0,1957,3.0,2.5,1152.0,5700.0,0.0,4,77,70.0,Yes,608730.0
+Ca,Contra-costa-county,Walnut creek,2096 vanderslice ave,94596,Single family residential,Active,1799000.0,1978,4.0,3.0,2416.0,12196.800000000001,0.0,9,18,33.0,Yes,1849991.0
+Ca,Contra-costa-county,Richmond,960 37th st,94805,Single family residential,Active,627950.0,1954,3.0,1.0,1120.0,3300.0,0.0,3,82,63.0,Yes,641731.0
+Ca,Contra-costa-county,Pittsburg,10 encina pl,94565,Single family residential,New,579000.0,1976,3.0,2.0,1698.0,10500.0,0.0,4,48,40.0,Yes,0.0
+Ca,Contra-costa-county,Concord,1370 swallowtail rd,94521,Single family residential,Active,890000.0,1976,3.0,2.0,1506.0,6100.0,45.0,6,10,49.0,Yes,923169.0
+Ca,Contra-costa-county,San pablo,2081 southwood dr,94806,Single family residential,Active,733000.0,1976,4.0,2.0,1441.0,7000.0,0.0,5,25,32.0,Yes,0.0
+Ca,Contra-costa-county,Richmond,704 falcon ct,94806,Single family residential,New,735000.0,2002,3.0,2.5,1655.0,3500.0,117.0,5,26,29.0,Yes,744608.0
+Ca,Contra-costa-county,Lafayette,911 anita ct,94549,Single family residential,Active,1595000.0,1955,5.0,3.0,1974.0,9500.0,0.0,9,42,40.0,Yes,0.0
+Ca,Contra-costa-county,Richmond,2771 sheldon dr,94803,Single family residential,New,799000.0,1955,4.0,3.0,1787.0,7700.0,0.0,4,15,10.0,Yes,801995.0
+Ca,Contra-costa-county,Pittsburg,127 greenmeadow cir,94565,Single family home,Active,869000.0,1995,4.0,2.5,2657.0,6600.0,0.0,4,4,7.0,Yes,885309.0
+Ca,Contra-costa-county,San ramon,2120 n donovan way,94582,Single family residential,New,1549000.0,2003,3.0,2.5,1646.0,4011.0,53.0,9,11,35.0,Yes,0.0
+Ca,Contra-costa-county,El cerrito,6860 cutting blvd,94530,Single family residential,Active,849000.0,1946,2.0,1.0,1274.0,5200.0,0.0,7,61,41.0,Yes,1048429.0
+Ca,Contra-costa-county,Antioch,5435 summerfield dr,94531,Single family residential,New,695000.0,2003,5.0,3.0,2430.0,6150.0,0.0,5,57,57.0,Yes,700563.0
+Ca,Contra-costa-county,Walnut creek,1743 carmel dr #33,94596,Condo,Active,469000.0,1966,2.0,1.5,850.0,17424.0,455.0,9,90,61.0,Yes,470520.0
+Ca,Contra-costa-county,Hercules,2180 lewis st,94547,Single family residential,Active,798888.0,2005,3.0,2.5,1680.0,1681.0,81.0,7,66,52.0,Yes,800169.0
+Ca,Contra-costa-county,San ramon,809 winterside cir,94583,Single family residential,New,1359000.0,1989,4.0,2.5,1887.0,3325.0,89.0,9,37,78.0,Yes,1373015.0
+Ca,Contra-costa-county,Berkeley,1109 woodside rd,94708,Single family home,Active,1495000.0,1953,3.0,2.0,1727.0,5616.0,27.0,8,24,23.0,Yes,1629942.0
+Ca,Contra-costa-county,Richmond,6316 monte cresta ave,94806,Single family residential,Active,799000.0,1964,4.0,2.5,1495.0,6000.0,0.0,4,16,12.0,Yes,823494.0
+Ca,Contra-costa-county,El cerrito,7400 cutting blvd,94530,Single family residential,New,1718000.0,1967,3.0,2.5,2404.0,8715.0,0.0,7,21,9.0,Yes,1928922.0
+Ca,Contra-costa-county,Martinez,221 briar dr,94553,Single family residential,New,1349000.0,1981,4.0,3.0,2455.0,7500.0,0.0,9,16,22.0,Yes,1351869.0
+Ca,Contra-costa-county,Pittsburg,175 w catamaran cir,94565,Single family residential,Active,459999.0,1978,3.0,2.0,1186.0,5500.0,0.0,5,8,32.0,Yes,475346.0
+Ca,Contra-costa-county,Walnut creek,2832 eccleston ave,94597,Single family home,Active,1168000.0,1948,3.0,1.0,1596.0,9200.0,0.0,8,70,85.0,Yes,1175686.0
+Ca,Contra-costa-county,Antioch,5199 ramsdell ct,94531,Single family residential,New,995000.0,2001,5.0,3.0,3796.0,10320.0,0.0,5,2,0.0,Yes,1027770.0
+Ca,Contra-costa-county,Walnut creek,1055 w holly dr,94598,Single family residential,New,1100000.0,1942,4.0,2.0,1693.0,10000.0,0.0,9,50,62.0,Yes,1120695.0
+Ca,Contra-costa-county,El sobrante,1237 fairway dr,94803,Single family residential,Active,775000.0,1976,3.0,2.0,1739.0,4704.0,106.0,4,35,9.0,Yes,788920.0
+Ca,Contra-costa-county,Concord,1247 pine creek way unit b,94520,Townhouse,Active,428000.0,1971,2.0,1.5,1089.0,792.0,350.0,3,64,62.0,Yes,419690.0
+Ca,Contra-costa-county,Lafayette,607 laird ln,94549,Single family residential,New,1225000.0,1968,4.0,3.0,2263.0,10000.0,0.0,7,13,10.0,Yes,1228082.0
+Ca,Contra-costa-county,Martinez,2520 orange st,94553,Single family residential,Active,619000.0,1928,2.0,1.0,960.0,5201.0,0.0,8,40,18.0,No,624204.0
+Ca,Contra-costa-county,Bay point,305 rosemarie pl,94565,Townhouse,Active,458000.0,1988,2.0,1.5,1206.0,2050.0,365.0,4,12,30.0,Yes,465359.0
+Ca,Contra-costa-county,Antioch,4420 belvedere way,94509,Single family residential,Active,799000.0,1993,4.0,3.0,2701.0,10498.0,0.0,5,30,50.0,Yes,805802.0
+Ca,Contra-costa-county,Martinez,218 blue ridge dr,94553,Single family residential,Active,939000.0,1962,3.0,2.0,1386.0,8400.0,0.0,9,35,27.0,Yes,965750.0
+Ca,Contra-costa-county,Antioch,5108 adriana ct,94531,Single family residential,New,739900.0,1996,5.0,3.0,2351.0,6110.0,0.0,5,62,34.0,Yes,749625.0
+Ca,Contra-costa-county,Concord,2278 saint george dr,94520,Single family residential,New,749950.0,1962,4.0,2.0,1515.0,6000.0,0.0,3,17,21.0,Yes,753328.0
+Ca,Contra-costa-county,Rodeo,527 vallejo ave,94572,Single family residential,Active,650000.0,1947,3.0,2.0,1218.0,5400.0,0.0,6,66,32.0,Yes,648057.0
+Ca,Contra-costa-county,Walnut creek,1435 marchbanks dr #5,94598,Condo,Active,370000.0,1972,1.0,1.0,550.0,5400.0,328.0,9,36,44.0,No,370704.0
+Ca,Contra-costa-county,San pablo,2670 dundee rd,94806,Single family residential,Active,749500.0,1955,3.0,2.0,1680.0,6000.0,0.0,5,31,14.0,Yes,763315.0
+Ca,Contra-costa-county,Concord,1161 linden dr,94520,Single family residential,New,615000.0,1955,3.0,2.0,1200.0,5280.0,0.0,4,59,70.0,Yes,616476.0
+Ca,Contra-costa-county,El cerrito,7704 ricardo ct,94530,Single family residential,New,1250000.0,1953,4.0,2.0,2720.0,5780.0,0.0,5,43,32.0,Yes,1585257.0
+Ca,Contra-costa-county,Richmond,3813 northridge dr,94806,Condo,Active,489000.0,1988,2.0,2.0,1319.0,5780.0,470.0,4,47,21.0,Yes,495154.0
+Ca,Contra-costa-county,San ramon,1672 star jasmine,94582,Single family residential,Active,2050000.0,2004,3.0,2.5,2406.0,7100.0,17.0,8,36,45.0,Yes,2050930.0
+Ca,Contra-costa-county,Brentwood,1349 downie point dr,94513,Single family residential,Active,959886.0,2004,4.0,3.0,2847.0,6120.0,0.0,9,30,45.0,Yes,964228.0
+Ca,Contra-costa-county,Antioch,5413 southwood way,94531,Single family residential,New,898000.0,1998,6.0,4.5,3616.0,10560.0,0.0,5,2,0.0,Yes,898003.0
+Ca,Contra-costa-county,Brentwood,198 continente ave,94513,Single family residential,Active,749950.0,2001,3.0,2.0,1820.0,7700.0,0.0,7,48,69.0,Yes,756443.0
+Ca,Contra-costa-county,Concord,1771 broadway #216,94520,Condo,Active,259800.0,1983,1.0,1.0,465.0,465.0,306.0,6,92,56.0,Yes,261223.0
+Ca,Contra-costa-county,Concord,2123 dalis dr,94520-5419,Mobile/manufactured home,New,184999.0,1983,2.0,2.0,1440.0,465.0,0.0,3,30,48.0,Yes,184470.0
+Ca,Contra-costa-county,Pittsburg,1061 cape may dr,94565,Single family residential,New,679000.0,2001,4.0,2.5,2135.0,3430.0,154.0,5,2,30.0,Yes,688600.0
+Ca,Contra-costa-county,Antioch,5532 hazelbrook,94531-8618,Single family residential,Active,748888.0,2003,4.0,3.0,2466.0,7740.0,0.0,5,44,46.0,Yes,754839.0
+Ca,Contra-costa-county,Walnut creek,211 saranap ave,94595,Single family residential,Active,998888.0,1953,3.0,1.5,1332.0,7802.0,0.0,9,39,30.0,No,1010136.0
+Ca,Contra-costa-county,Antioch,4605 knollpark cir,94531,Single family residential,Active,658000.0,1989,4.0,2.5,1813.0,6252.0,0.0,5,42,61.0,Yes,0.0
+Ca,Contra-costa-county,San ramon,2213 dewberry dr,94582,Single family residential,Active,1600000.0,1998,3.0,2.5,1971.0,5363.0,40.0,8,28,16.0,Yes,1618458.0
+Ca,Contra-costa-county,Discovery bay,2211 colonial ct,94505,Single family residential,New,899000.0,1989,4.0,3.0,2455.0,7747.0,135.0,7,17,36.0,Yes,901759.0
+Ca,Contra-costa-county,Richmond,6217 bernhard ave,94805,Single family residential,New,1095000.0,1953,3.0,2.0,1676.0,4400.0,0.0,5,38,20.0,Yes,1233145.0
+Ca,Contra-costa-county,Antioch,934 marie ave,94509,Single family residential,Active,425000.0,1939,2.0,1.0,1174.0,12196.800000000001,0.0,3,68,54.0,Yes,428822.0
+Ca,Contra-costa-county,Pittsburg,1035 dawnview ct,94565,Single family residential,New,868000.0,1999,5.0,3.5,3083.0,7500.0,0.0,4,2,4.0,Yes,0.0
+Ca,Contra-costa-county,San ramon,110 compton cir unit d,94583,Condo,New,469000.0,1984,1.0,1.0,685.0,7500.0,495.0,9,74,63.0,Yes,479880.0
+Ca,Contra-costa-county,Brentwood,1600 meritage loop,94513,Single family residential,Active,1350000.0,2022,3.0,2.5,2054.0,7465.0,366.0,9,3,7.0,Yes,1398145.0
+Ca,Contra-costa-county,Brentwood,1370 pearl way,94513,Single family residential,Active,579900.0,2003,2.0,2.0,1582.0,4800.0,155.0,9,5,42.0,Yes,580691.0
+Ca,Contra-costa-county,Discovery bay,9655 boca raton way,94505-2689,Single family residential,Active,809000.0,2017,4.0,3.0,2263.0,8213.0,175.0,7,5,33.0,Yes,811325.0
+Ca,Contra-costa-county,Pittsburg,153 e trident dr,94565-3526,Single family residential,New,350000.0,1973,2.0,1.0,817.0,3100.0,0.0,5,26,34.0,Yes,353243.0
+Ca,Contra-costa-county,Concord,1795 ayers rd,94521,Single family residential,Active,878000.0,1952,3.0,2.0,1604.0,9191.0,0.0,6,37,42.0,Yes,882084.0
+Ca,Contra-costa-county,Pacheco,371 pantano cir,94553,Condo,Active,549000.0,1981,3.0,2.5,1426.0,5300.0,465.0,8,73,60.0,Yes,548467.0
+Ca,Contra-costa-county,Brentwood,1109 mill creek way,94513,Single family residential,Active,819999.0,1998,5.0,3.0,2271.0,5232.0,0.0,9,53,59.0,Yes,824960.0
+Ca,Contra-costa-county,El cerrito,5449 barrett ave,94530-1466,Single family residential,Active,2298000.0,1934,4.0,4.5,3446.0,11325.6,0.0,5,67,48.0,Yes,2655057.0
+Ca,Contra-costa-county,Concord,3112 mount diablo st,94518,Single family residential,New,725000.0,1954,3.0,2.0,1130.0,5060.0,0.0,5,49,76.0,Yes,737424.0
+Ca,Contra-costa-county,Hercules,1054 cottage ln,94547,Single family residential,Active,749999.0,2004,4.0,3.5,2452.0,3569.0,79.0,7,52,40.0,Yes,757956.0
+Ca,Contra-costa-county,Brentwood,562 mandevilla,94513,Single family residential,Active,919999.0,2016,4.0,3.5,3134.0,7148.0,0.0,7,55,64.0,Yes,934651.0
+Ca,Contra-costa-county,Pittsburg,3131 la corona dr,94565,Single family residential,New,834900.0,2020,5.0,3.0,2800.0,3934.0,0.0,4,2,4.0,Yes,851833.0
+Ca,Contra-costa-county,Antioch,1255 mokelumne ct,94531,Single family residential,Active,839900.0,1998,5.0,3.0,2835.0,8836.0,0.0,5,2,0.0,Yes,841768.0
+Ca,Contra-costa-county,Pleasant hill,30 greendell pl,94523,Single family residential,Active,1250000.0,1969,4.0,2.5,2136.0,13939.2,0.0,9,13,25.0,Yes,1280204.0
+Ca,Contra-costa-county,Oakley,4616 salvador ln,94561,Single family residential,New,835000.0,2002,5.0,3.0,3683.0,6050.0,0.0,6,22,62.0,Yes,839139.0
+Ca,Contra-costa-county,Pleasant hill,10 kilgo ct,94523,Single family residential,New,1225000.0,1959,4.0,2.5,1942.0,11761.2,0.0,8,49,42.0,Yes,1253111.0
+Ca,Contra-costa-county,Antioch,5204 grass valley way,94531,Single family home,Active,569000.0,1997,3.0,2.0,1321.0,5750.0,0.0,5,33,44.0,Yes,572448.0
+Ca,Contra-costa-county,Danville,1051 hill meadow pl,94526,Single family residential,Active,1995000.0,1989,4.0,2.5,2686.0,16988.4,45.0,9,13,19.0,Yes,2057584.0
+Ca,Contra-costa-county,Pleasant hill,40 picasso ct,94523,Townhouse,Active,798000.0,2002,3.0,2.5,1676.0,1340.0,328.0,8,65,76.0,Yes,813471.0
+Ca,Contra-costa-county,Pleasant hill,1998 pleasant hill rd,94523,Single family residential,Active,997000.0,1947,3.0,2.0,1498.0,8800.0,0.0,8,46,66.0,Yes,1002914.0
+Ca,Contra-costa-county,Walnut creek,2274 oakvale rd,94597,Single family residential,Active,1299000.0,1947,3.0,2.0,1930.0,10454.0,0.0,9,48,22.0,Yes,1369191.0
+Ca,Contra-costa-county,Antioch,2016 mangrove way,94509,Single family residential,Active,719900.0,2001,4.0,2.5,2512.0,4966.0,64.0,5,35,46.0,Yes,728345.0
+Ca,Contra-costa-county,Brentwood,2509 shadowbrooke rd,94513,Single family residential,Active,980000.0,2014,4.0,4.5,3158.0,6200.0,0.0,7,39,45.0,Yes,990072.0
+Ca,Contra-costa-county,Concord,2127 la orinda pl,94518,Single family residential,Active,999999.0,1975,4.0,2.5,2010.0,7875.0,0.0,4,51,47.0,Yes,1036433.0
+Ca,Contra-costa-county,Antioch,5465 smetzer way,94531,Single family residential,Active,788000.0,2002,5.0,3.0,3367.0,8000.0,0.0,5,52,44.0,Yes,795114.0
+Ca,Contra-costa-county,Richmond,358 s 23rd,94804,Single family residential,Active,599950.0,1942,2.0,2.0,1187.0,4500.0,0.0,2,77,62.0,Yes,603794.0
+Ca,Contra-costa-county,Walnut creek,203 mayhew way,94597,Single family residential,New,899000.0,1949,2.0,1.0,840.0,10890.0,0.0,5,67,72.0,Yes,911743.0
+Ca,Contra-costa-county,Martinez,537 ross cir,94553,Single family residential,Active,899000.0,2000,4.0,2.5,2002.0,4888.0,54.0,7,24,29.0,Yes,902976.0
+Ca,Contra-costa-county,Richmond,3606 stoneglen s,94806,Condo,Active,485000.0,1990,2.0,2.0,1176.0,1176.0,484.0,4,47,24.0,No,485040.0
+Ca,Contra-costa-county,Antioch,4561 mendota way,94531,Single family residential,Active,749000.0,2002,4.0,2.5,2698.0,8749.0,0.0,5,14,29.0,Yes,757859.0
+Ca,Contra-costa-county,Pinole,975 kilkenny way,94564,Single family residential,Active,769000.0,1965,3.0,2.0,1387.0,6800.0,0.0,5,67,30.0,Yes,771365.0
+Ca,Contra-costa-county,Richmond,1205 melville #307,84804-4560,Condo,New,399000.0,1983,1.0,1.0,734.0,6800.0,505.0,4,45,66.0,Yes,399188.0
+Ca,Contra-costa-county,Dublin,8051 crossridge rd,94568-3496,Single family residential,New,1649000.0,1988,5.0,2.5,2487.0,5666.0,0.0,9,12,40.0,Yes,1665235.0
+Ca,Contra-costa-county,Richmond,461 28th st,94804,Single family residential,Active,719000.0,1929,2.0,2.0,1559.0,3800.0,0.0,2,84,76.0,Yes,718316.0
+Ca,Contra-costa-county,Pinole,2313 orleans dr,94564,Single family residential,New,739900.0,1954,4.0,2.0,1333.0,5096.0,0.0,5,69,64.0,Yes,737744.0
+Ca,Contra-costa-county,Pittsburg,265 balsam st,94565,Single family residential,New,650000.0,2004,4.0,2.5,2135.0,4150.0,167.0,5,10,37.0,Yes,655541.0
+Ca,Contra-costa-county,Clayton,3050 miwok way,94517,Single family residential,Active,1295000.0,1994,4.0,2.0,2505.0,9900.0,0.0,8,7,10.0,Yes,1317494.0
+Ca,Contra-costa-county,Antioch,2105 lemontree way #1,94509,Condo,Active,199900.0,1969,2.0,1.0,903.0,9900.0,480.0,3,59,50.0,Yes,201190.0
+Ca,Contra-costa-county,Concord,2867 gillet ave,94520,Single family residential,New,350000.0,1953,3.0,1.0,1084.0,5194.0,0.0,3,38,66.0,Yes,353995.0
+Ca,Contra-costa-county,Pittsburg,135 w 8th st,94565,Single family residential,Active,479000.0,1918,3.0,1.0,1183.0,3963.0,0.0,4,85,55.0,Yes,480176.0
+Ca,Contra-costa-county,Pleasant hill,378 scottsdale,94523,Townhouse,Active,729000.0,1974,3.0,2.5,1365.0,3963.0,418.0,8,47,58.0,Yes,734365.0
+Ca,Contra-costa-county,Antioch,2228 jefferson way,94509,Single family residential,New,558000.0,1972,3.0,2.0,1288.0,6500.0,0.0,3,44,52.0,Yes,563469.0
+Ca,Contra-costa-county,San ramon,211 cullens ct,94582,Single family residential,New,2348000.0,2005,5.0,4.0,3757.0,5927.0,0.0,9,4,24.0,Yes,2382810.0
+Ca,Contra-costa-county,Oakley,123 francisco villa dr,94561,Single family residential,New,550000.0,1970,4.0,2.0,1120.0,6840.0,0.0,6,54,57.0,Yes,551393.0
+Ca,Contra-costa-county,Walnut creek,707 autumn dr,94598,Single family residential,New,1999888.0,1966,5.0,3.0,2245.0,12196.800000000001,0.0,9,29,75.0,Yes,2002732.0
+Ca,Contra-costa-county,Antioch,810 burwood way,94509,Single family residential,New,578500.0,1984,3.0,2.0,1164.0,6640.0,0.0,3,44,46.0,Yes,585620.0
+Ca,Contra-costa-county,Richmond,3423 humphrey ave,94804,Single family residential,Active,915000.0,1941,3.0,2.0,1685.0,5001.0,0.0,3,78,58.0,Yes,941651.0
+Ca,Contra-costa-county,Walnut creek,2630 san carlos dr,94598,Single family residential,New,1575000.0,1959,4.0,2.0,1663.0,12632.4,0.0,9,54,58.0,Yes,1594571.0
+Ca,Contra-costa-county,Pittsburg,324 houser dr,94565-7205,Single family residential,New,509000.0,1990,3.0,2.5,1608.0,5950.0,88.0,5,16,37.0,Yes,512169.0
+Ca,Contra-costa-county,El cerrito,1213 norvell st,94530,Single family residential,Active,799000.0,1948,2.0,1.0,1096.0,5000.0,0.0,7,67,79.0,Yes,944236.0
+Ca,Contra-costa-county,Oakley,448 sonnet ct,94561,Single family residential,New,790000.0,2014,5.0,4.5,3222.0,7105.0,114.0,6,9,35.0,Yes,865744.0
+Ca,Contra-costa-county,Concord,5458 roundtree dr unit h,94521,Condo,Active,420000.0,1970,2.0,1.0,914.0,1326.0,423.0,8,72,28.0,No,421669.0
+Ca,Contra-costa-county,Antioch,3511 dameron pl,94509,Townhouse,New,529900.0,1984,3.0,2.5,1510.0,1344.0,346.0,3,20,31.0,Yes,531773.0
+Ca,Contra-costa-county,Concord,3655 walnut ave,94519,Single family residential,Active,925000.0,1953,4.0,2.0,1735.0,8500.0,0.0,6,36,52.0,Yes,927060.0
+Ca,Contra-costa-county,San pablo,2970 arundel,94806,Single family residential,New,599000.0,1943,3.0,1.0,948.0,4440.0,0.0,4,55,33.0,Yes,605406.0
+Ca,Contra-costa-county,Berkeley,570 woodmont ave,94708,Single family residential,Active,1695000.0,1921,3.0,2.5,2663.0,8800.0,0.0,8,25,25.0,Yes,0.0
+Ca,Contra-costa-county,San pablo,1900 pine ave,94806,Single family residential,New,545000.0,1958,4.0,2.0,1183.0,3675.0,0.0,3,79,53.0,Yes,546064.0
+Ca,Contra-costa-county,Martinez,504 palms dr,94553,Single family residential,Active,748000.0,2005,3.0,2.0,1856.0,7224.0,0.0,7,18,22.0,Yes,764868.0
+Ca,Contra-costa-county,Walnut creek,2641 smith ranch rd,94598,Single family home,Active,2200000.0,2022,4.0,3.5,3816.0,8217.0,0.0,0,41,71.0,Yes,0.0
+Ca,Contra-costa-county,Richmond,4000 leke way,94806,Single family residential,Active,525000.0,1950,5.0,2.0,2269.0,5076.0,0.0,5,39,58.0,Yes,528307.0
+Ca,Contra-costa-county,Concord,1830 florence ln,94520,Single family residential,Active,430000.0,1949,3.0,2.0,1107.0,9000.0,0.0,4,44,76.0,Yes,428867.0
+Ca,Contra-costa-county,San ramon,3482 cinnamon ridge rd,94582,Single family residential,New,2099500.0,2016,4.0,4.5,2921.0,4546.0,99.0,8,12,20.0,Yes,2104447.0
+Ca,Contra-costa-county,Antioch,2333 cypress st,94509-5247,Single family residential,Active,499000.0,1979,3.0,2.0,1256.0,3200.0,0.0,3,31,62.0,Yes,505460.0
+Ca,Contra-costa-county,Hercules,112 zircon ct,94547,Single family residential,Price change,899000.0,1987,4.0,3.0,1945.0,6100.0,0.0,7,70,25.0,Yes,843222.0
+Ca,Contra-costa-county,El sobrante,820 n rancho rd,94803,Single family residential,New,899000.0,1965,4.0,3.0,2235.0,15681.599999999999,0.0,4,18,10.0,Yes,898197.0
+Ca,Contra-costa-county,Concord,1896 lynwood dr unit d,94519,Condo,Active,499500.0,1971,2.0,1.5,979.0,720.0,275.0,8,21,42.0,Yes,497528.0
+Ca,Contra-costa-county,Walnut creek,1505 arbutus dr,94595,Single family residential,Active,2295000.0,2007,5.0,3.0,3020.0,12632.4,0.0,9,69,48.0,Yes,2329909.0
+Ca,Contra-costa-county,Bethel island,3669 porter cir #98,94511,Mobile/manufactured home,Active,225000.0,2007,2.0,2.0,1745.0,12632.4,0.0,6,0,32.0,Yes,224702.0
+Ca,Contra-costa-county,Concord,2299 flagstone way,94521,Single family residential,Active,919500.0,1993,3.0,2.5,2517.0,7100.0,179.0,6,6,1.0,Yes,923794.0
+Ca,Contra-costa-county,Concord,3051 treat blvd #138,94518,Condo,Active,320000.0,1971,1.0,1.0,730.0,7100.0,425.0,5,69,70.0,No,319655.0
+Ca,Contra-costa-county,Pittsburg,2144 rain drop cir,94565,Single family residential,New,539000.0,1991,3.0,2.0,1435.0,5500.0,0.0,5,49,44.0,Yes,545283.0
+Ca,Contra-costa-county,Discovery bay,6950 new melones cir,94505,Single family residential,Active,838000.0,1991,4.0,4.0,4088.0,6911.0,174.0,7,5,36.0,Yes,837725.0
+Ca,Contra-costa-county,Danville,2025 chadbourne ct,94506,Single family residential,New,1899000.0,1987,4.0,3.0,3102.0,8000.0,100.0,9,30,27.0,Yes,1967275.0
+Ca,Contra-costa-county,Hercules,160 lapis ct,94547,Single family residential,Active,1288000.0,1988,4.0,2.5,1908.0,13939.2,0.0,7,1,1.0,Yes,1286782.0
+Ca,Contra-costa-county,Discovery bay,6887 new melones cir,94514,Single family residential,New,749000.0,2005,3.0,2.0,2033.0,7726.0,179.0,7,4,33.0,Yes,754901.0
+Ca,Contra-costa-county,Oakley,60 wisteria ct,94561,Single family residential,Active,585000.0,1996,3.0,2.0,1546.0,8280.0,0.0,5,52,45.0,Yes,587359.0
+Ca,Contra-costa-county,Richmond,590 mclaughlin st,94805,Single family residential,Active,899888.0,1926,4.0,2.0,1395.0,5001.0,0.0,5,80,80.0,Yes,936128.0
+Ca,Contra-costa-county,Oakley,12 privet ct,94561,Single family residential,Price change,990000.0,2007,5.0,3.5,4086.0,8000.0,0.0,7,20,39.0,Yes,1041139.0
+Ca,Contra-costa-county,Clayton,24 mt wilson way,94517,Single family residential,Active,749950.0,1973,2.0,2.5,1378.0,1200.0,385.0,8,37,20.0,Yes,764366.0
+Ca,Contra-costa-county,Martinez,302 warren st,94553,Single family residential,New,575000.0,1926,2.0,1.0,1008.0,3800.0,0.0,7,60,31.0,Yes,581910.0
+Ca,Contra-costa-county,Bay point,Undisclosed address,94565,Single family residential,New,569950.0,1970,4.0,2.0,1326.0,6300.0,0.0,4,57,64.0,Yes,572524.0
+Ca,Contra-costa-county,Antioch,5201 feather way,94531,Single family residential,New,699950.0,1998,4.0,2.0,2041.0,7500.0,0.0,5,34,34.0,Yes,702642.0
+Ca,Contra-costa-county,Walnut creek,1540 candelero dr,94598,Townhouse,New,779000.0,1973,3.0,2.5,1568.0,2244.0,435.0,7,59,80.0,Yes,785947.0
+Ca,Contra-costa-county,Danville,117 julia loop,94506,Single family residential,New,2349500.0,2019,4.0,4.5,3085.0,5201.0,168.0,9,38,48.0,Yes,2378239.0
+Ca,Contra-costa-county,Brentwood,601 wassen ct,94513,Single family residential,Active,950000.0,2000,5.0,3.0,2800.0,10000.0,0.0,9,26,55.0,Yes,952702.0
+Ca,Contra-costa-county,Pleasant hill,1948 ardith dr,94523,Single family residential,New,950000.0,1949,4.0,2.0,1564.0,7300.0,0.0,8,45,76.0,Yes,998888.0
+Ca,Contra-costa-county,Richmond,616 s 49th st,94804,Single family residential,New,799999.0,1968,4.0,2.0,1652.0,6000.0,0.0,4,69,76.0,Yes,804930.0
+Ca,Contra-costa-county,Walnut creek,2366 parish dr,94598-1535,Single family residential,New,1222222.0,1965,4.0,2.5,1941.0,10200.0,0.0,7,57,85.0,Yes,1257501.0
+Ca,Contra-costa-county,Danville,664 dolphin dr,94526,Single family residential,New,2589000.0,1969,3.0,2.0,1986.0,14374.800000000001,0.0,9,13,33.0,Yes,2562040.0
+Ca,Alameda-county,Pleasanton,4759 mchenry gate way,94566,Single family residential,New,1878000.0,1984,4.0,3.0,2050.0,7810.0,0.0,9,34,72.0,Yes,1941190.0
+Ca,Alameda-county,Berkeley,490 panoramic way,94704,Single family residential,New,899000.0,1948,2.0,2.0,1125.0,5984.0,0.0,8,28,28.0,No,1187240.0
+Ca,Alameda-county,Oakland,10530 stella st,94605,Single family residential,Active,1099888.0,2007,5.0,3.5,2892.0,4821.0,0.0,4,26,24.0,Yes,1143238.0
+Ca,Alameda-county,Pleasanton,1011 zinfandel ct,94566,Single family residential,New,2498000.0,1987,5.0,3.0,3350.0,9360.0,0.0,9,19,10.0,Yes,2513228.0
+Ca,Alameda-county,San lorenzo,179 via malaga,94580,Single family residential,New,948888.0,1951,3.0,2.0,1749.0,9120.0,10.0,4,61,59.0,Yes,956663.0
+Ca,Alameda-county,Berkeley,1246 hopkins st,94702,Single family residential,New,1195000.0,1935,2.0,2.0,1391.0,3360.0,0.0,8,86,98.0,Yes,1530898.0
+Ca,Alameda-county,Oakland,1718 69th ave,94621,Single family residential,New,609000.0,1915,3.0,2.5,1412.0,5650.0,0.0,3,77,63.0,Yes,613112.0
+Ca,Alameda-county,San lorenzo,15725 wagner st,94580,Single family residential,New,639000.0,1951,3.0,1.0,1059.0,5796.0,0.0,4,48,58.0,Yes,647926.0
+Ca,Alameda-county,Union city,2529 trailside way,94587,Single family home,Active,1858888.0,1999,5.0,3.0,2521.0,7867.0,0.0,8,47,55.0,Yes,1865861.0
+Ca,Alameda-county,Oakland,3936 hanly rd,94602,Single family residential,New,1095000.0,1926,3.0,2.0,1651.0,3564.0,0.0,7,74,38.0,Yes,1281911.0
+Ca,Alameda-county,San leandro,16386 mateo st,94578,Single family residential,New,799000.0,1947,2.0,1.0,1018.0,5300.0,0.0,4,70,55.0,Yes,795471.0
+Ca,Alameda-county,Emeryville,1510 park ave #311,94608,Condo,New,430000.0,2000,1.0,1.0,644.0,8669.0,452.0,5,72,91.0,Yes,0.0
+Ca,Alameda-county,Berkeley,6728 charing cross,94705,Single family residential,New,2950000.0,2022,4.0,4.5,3020.0,7594.0,0.0,8,11,30.0,Yes,3125675.0
+Ca,Alameda-county,Oakland,3471 wilson ave,94602,Single family residential,New,699000.0,1923,2.0,1.0,876.0,3690.0,0.0,5,90,59.0,Yes,746672.0
+Ca,Alameda-county,Fremont,37149 dondero way,94536,Single family home,Active,1098888.0,1952,4.0,3.0,1296.0,5429.0,0.0,7,65,54.0,Yes,1125494.0
+Ca,Alameda-county,Dublin,3307 longmeadow pl,94568,Single family residential,New,1780000.0,2000,4.0,2.5,2366.0,5352.0,86.0,9,34,45.0,Yes,1787709.0
+Ca,Alameda-county,Fremont,3850 great salt lake ct,94555,Single family home,Active,1199000.0,1978,3.0,2.5,1335.0,3988.0,0.0,9,67,57.0,Yes,1200397.0
+Ca,Alameda-county,Oakland,9840 lawlor st,94605,Single family residential,New,550000.0,1920,2.0,1.0,733.0,6254.0,0.0,4,64,45.0,Yes,553394.0
+Ca,Alameda-county,San leandro,1449 151st ave,94578,Single family residential,New,725000.0,1941,2.0,1.0,994.0,4000.0,0.0,4,86,59.0,Yes,724161.0
+Ca,Alameda-county,Oakland,5918 taft ave,94618,Single family residential,New,1449000.0,1913,3.0,1.5,1340.0,4160.0,0.0,8,75,63.0,No,1776024.0
+Ca,Alameda-county,Oakland,2721 106th ave,94605,Single family residential,New,579000.0,1943,2.0,1.0,805.0,6400.0,0.0,4,75,71.0,Yes,580469.0
+Ca,Alameda-county,Oakland,763 franklin st #418,94607,Condo,New,369000.0,1989,1.0,1.0,682.0,6400.0,453.0,8,100,84.0,No,367690.0
+Ca,Alameda-county,Berkeley,2747 san pablo ave #212,94702,Condo,New,629000.0,2020,1.0,1.5,773.0,17424.0,461.0,8,92,92.0,Yes,637131.0
+Ca,Alameda-county,Newark,6744 mayhews landing rd,94560,Single family home,Active,1349000.0,1952,3.0,2.5,1700.0,9752.0,0.0,5,57,51.0,Yes,1347724.0
+Ca,Alameda-county,Oakland,2101 havenscourt blvd,94621,Single family residential,New,628000.0,1922,3.0,2.0,1807.0,3939.0,0.0,5,73,59.0,Yes,626323.0
+Ca,Alameda-county,Livermore,4692 gerrilyn way,94550,Single family residential,New,1349000.0,1993,4.0,3.0,2472.0,8272.0,0.0,7,38,67.0,Yes,1364621.0
+Ca,Alameda-county,Oakland,2620 bartlett,94602,Single family residential,New,729000.0,1922,2.0,1.0,984.0,5125.0,0.0,5,65,64.0,Yes,810154.0
+Ca,Alameda-county,Berkeley,2690 shasta rd,94708,Single family residential,Active,1595000.0,1979,3.0,2.5,3070.0,6507.0,0.0,8,31,33.0,No,0.0
+Ca,Alameda-county,Alameda,817 santa clara ave,94501,Single family residential,New,1495000.0,1895,3.0,1.5,2184.0,5520.0,0.0,7,92,81.0,Yes,1510990.0
+Ca,Alameda-county,Fremont,5322 tallman ct,94536,Single family residential,Active,1559950.0,1963,4.0,2.0,1635.0,11761.2,25.0,7,46,45.0,Yes,1580290.0
+Ca,Alameda-county,Pleasanton,6831 herrin way,94588,Single family residential,New,1498000.0,1976,5.0,3.0,2050.0,6200.0,0.0,9,41,68.0,Yes,1517806.0
+Ca,Alameda-county,Pleasanton,1493 trimingham dr,94566,Single family residential,New,998000.0,1986,2.0,2.0,1345.0,4728.0,92.0,9,78,73.0,Yes,1062309.0
+Ca,Alameda-county,Pleasanton,5786 belleza dr,94588,Townhouse,New,899900.0,1995,2.0,2.0,1302.0,1385.0,310.0,9,34,64.0,Yes,913526.0
+Ca,Alameda-county,Pleasanton,5420 san jose dr,94566,Single family residential,Active,1600000.0,1971,4.0,2.0,1919.0,7100.0,0.0,9,64,47.0,Yes,1576223.0
+Ca,Alameda-county,Castro valley,18779 w cavendish dr,94552,Single family residential,Active,1500000.0,1978,4.0,3.0,2292.0,8693.0,33.0,8,2,4.0,Yes,1580937.0
+Ca,Alameda-county,Oakland,1438 lakeshore ave #1,94606,Condo,New,550000.0,1933,1.0,1.0,824.0,5740.0,475.0,7,91,95.0,Yes,549003.0
+Ca,Alameda-county,Hayward,3450 saddle dr,94541,Single family home,Active,850000.0,1962,3.0,2.0,1318.0,6120.0,0.0,5,10,12.0,Yes,904413.0
+Ca,Alameda-county,Newark,6054 birch pl unit na,94560,Single family home,Active,999999.0,1979,4.0,2.5,1780.0,5609.0,0.0,6,56,43.0,Yes,1024192.0
+Ca,Alameda-county,Fremont,47850 masters ct,94539,Single family residential,New,1799900.0,1963,4.0,3.0,1821.0,7920.0,0.0,9,51,52.0,Yes,1799936.0
+Ca,Alameda-county,Hayward,25824 scripps st,94545,Single family residential,New,749950.0,1959,3.0,2.0,1359.0,5734.0,0.0,5,61,66.0,Yes,766959.0
+Ca,Alameda-county,Fremont,3207 kemper rd,94536,Single family residential,New,1725000.0,1973,4.0,2.0,1708.0,6930.0,0.0,9,62,73.0,Yes,1717369.0
+Ca,Alameda-county,Oakland,2710 harrison st,94612,Single family residential,Active,849000.0,1924,3.0,3.0,1843.0,7571.0,0.0,8,93,78.0,Yes,0.0
+Ca,Alameda-county,Oakland,6320 rocky point ct,94605,Townhouse,Active,988000.0,2012,4.0,3.0,2468.0,2089.0,534.0,4,13,15.0,Yes,1087928.0
+Ca,Alameda-county,Union city,32510 karen ct,94587,Single family residential,New,1450000.0,1975,4.0,2.0,1682.0,7448.0,0.0,8,13,48.0,Yes,1472897.0
+Ca,Alameda-county,Livermore,5291 lilac ave,94551,Single family residential,New,849000.0,1971,3.0,2.0,1040.0,6000.0,54.0,7,20,61.0,Yes,871156.0
+Ca,Alameda-county,Pleasanton,625 neal st,94566,Single family residential,New,1750000.0,1957,4.0,3.0,1698.0,8714.0,0.0,9,64,31.0,Yes,1748276.0
+Ca,Alameda-county,Oakland,295 lenox ave #104,94610,Condo,New,849000.0,1981,2.0,2.0,1409.0,12632.4,533.0,8,91,82.0,Yes,857585.0
+Ca,Alameda-county,Oakland,1865 39th ave,94601,Single family residential,New,499000.0,1915,2.0,1.0,902.0,2825.0,0.0,4,92,78.0,No,500077.0
+Ca,Alameda-county,Pleasanton,2303 woodthrush way,94566,Single family residential,New,1849000.0,1967,4.0,2.0,1882.0,7402.0,0.0,9,49,60.0,Yes,1861488.0
+Ca,Alameda-county,Fremont,61 old glory ct,94539,Single family residential,New,2988888.0,1990,5.0,4.5,3108.0,8179.0,123.0,9,42,33.0,Yes,2982798.0
+Ca,Alameda-county,Livermore,5648 dresslar cir,94550,Single family residential,New,1800000.0,2004,5.0,4.0,3270.0,8914.0,8.0,7,28,75.0,Yes,1825251.0
+Ca,Alameda-county,Oakland,7607 hillside st,94605,Single family home,Active,550000.0,1926,2.0,1.0,888.0,2470.0,0.0,4,80,64.0,Yes,555794.0
+Ca,Alameda-county,San leandro,543 fortuna ave,94577,Single family residential,New,879000.0,1939,2.0,1.5,1212.0,4738.0,0.0,6,65,58.0,Yes,930742.0
+Ca,Alameda-county,Fremont,42124 camino santa barbara,94539,Single family residential,New,1999900.0,1963,4.0,2.0,1750.0,8740.0,0.0,9,30,39.0,Yes,2018774.0
+Ca,Alameda-county,Newark,36739 hafner st,94560,Single family residential,Active,1190000.0,1954,4.0,2.0,1216.0,5000.0,0.0,5,80,50.0,Yes,1196387.0
+Ca,Alameda-county,Oakland,155 pearl st #308,94611,Condo,New,739000.0,1973,2.0,2.0,1082.0,12196.800000000001,388.0,7,85,71.0,Yes,735339.0
+Ca,Alameda-county,Dublin,4793 n spago dr,94568,Single family residential,New,1725000.0,2013,3.0,2.5,2089.0,3783.0,89.0,9,14,13.0,Yes,1927049.0
+Ca,Alameda-county,Oakland,3125 cuthbert ave,94602-2725,Condo,New,449000.0,1983,2.0,1.5,912.0,5200.0,100.0,5,83,65.0,Yes,449207.0
+Ca,Alameda-county,Oakland,4722 congress ave,94601,Single family residential,Active,899000.0,1983,3.0,2.0,1204.0,5000.0,0.0,4,73,37.0,Yes,0.0
+Ca,Alameda-county,Hayward,362 jerilynn ln,94541,Single family residential,Active,875000.0,1951,3.0,2.0,1149.0,5100.0,0.0,5,56,59.0,Yes,880471.0
+Ca,Alameda-county,Union city,2721 cherry blossom way,94587,Single family residential,New,1998000.0,1998,6.0,4.0,3088.0,13068.0,0.0,8,60,58.0,Yes,2052957.0
+Ca,Alameda-county,Oakland,1215 106th ave,94603,Single family residential,New,799800.0,1910,5.0,3.0,2400.0,7500.0,0.0,5,74,70.0,Yes,814860.0
+Ca,Alameda-county,Oakland,4438 camden st,94619,Single family residential,Active,650000.0,1948,3.0,1.5,1136.0,4524.0,0.0,5,82,46.0,No,670939.0
+Ca,Alameda-county,Oakland,10500 beverly ave,94603,Single family residential,New,749000.0,1931,3.0,2.0,1508.0,4356.0,0.0,3,72,74.0,Yes,781364.0
+Ca,Alameda-county,Livermore,1221 lexington way,94550,Single family residential,New,1450000.0,1972,3.0,2.0,1728.0,9812.0,0.0,8,29,54.0,Yes,1452822.0
+Ca,Alameda-county,Oakland,3009 humboldt ave,94602,Single family residential,New,899000.0,1920,5.0,2.0,1783.0,9420.0,0.0,5,76,59.0,Yes,922159.0
+Ca,Alameda-county,Oakland,631 wesley ave,94610,Single family residential,New,995000.0,1922,3.0,1.0,1460.0,4365.0,0.0,7,95,71.0,Yes,1198123.0
+Ca,Alameda-county,Oakland,1625 church st,94621,Single family home,Active,695000.0,1921,3.0,2.0,1684.0,5000.0,0.0,3,81,62.0,No,690604.0
+Ca,Alameda-county,Union city,280 oahu cir,94587,Mobile/manufactured home,New,220000.0,1921,2.0,2.0,1440.0,5000.0,0.0,8,1,45.0,Yes,220240.0
+Ca,Alameda-county,Berkeley,1475 campus dr,94708,Single family residential,New,1150000.0,1972,3.0,2.5,1434.0,6588.0,0.0,8,27,34.0,Yes,0.0
+Ca,Alameda-county,Berkeley,2423 grant st,94703,Single family residential,New,849000.0,1910,2.0,1.0,620.0,2600.0,0.0,8,85,95.0,No,986030.0
+Ca,Alameda-county,Oakland,3963 altamont ave,94605,Single family residential,New,649000.0,1925,2.0,1.5,1053.0,6250.0,0.0,4,39,39.0,No,0.0
+Ca,Alameda-county,San leandro,15087 andover st,94579,Single family residential,New,898800.0,1949,3.0,1.0,1340.0,5040.0,0.0,7,83,54.0,Yes,896124.0
+Ca,Alameda-county,Oakland,924 45th st,94608,Single family residential,New,899000.0,1924,2.0,1.0,967.0,3300.0,0.0,7,90,98.0,Yes,983204.0
+Ca,Alameda-county,Dublin,3753 central pkwy,94568,Condo,New,1159000.0,2007,4.0,3.0,2383.0,3300.0,419.0,9,52,71.0,Yes,1178889.0
+Ca,Alameda-county,Dublin,4271 clarinbridge cir,94568,Condo,Active,799000.0,2004,2.0,2.5,1428.0,3300.0,357.0,9,67,65.0,Yes,813223.0
+Ca,Alameda-county,Hayward,24410 calaveras rd,94545,Single family residential,New,1150000.0,1979,4.0,3.0,2249.0,5500.0,0.0,5,73,56.0,Yes,1216343.0
+Ca,Alameda-county,Oakland,62 crestmont dr,94619,Single family residential,New,1395000.0,1960,4.0,3.0,2133.0,13503.6,16.0,5,10,15.0,Yes,0.0
+Ca,Alameda-county,Alameda,1220 broadway,94501,Single family residential,New,998000.0,1910,3.0,2.0,1834.0,4420.0,0.0,9,89,82.0,Yes,1232876.0
+Ca,Alameda-county,Fremont,38275 ballard dr,94536,Single family home,Active,1998000.0,1960,5.0,3.0,2425.0,8250.0,25.0,7,40,42.0,Yes,2033029.0
+Ca,Alameda-county,Hayward,30518 prestwick ave,94544,Single family residential,New,998888.0,1955,3.0,2.0,2020.0,7480.0,0.0,3,70,50.0,Yes,998492.0
+Ca,Alameda-county,Oakland,151 lakeside dr apt 112,94612,Condo,Active,468000.0,1974,1.0,1.0,621.0,7480.0,402.0,8,96,89.0,Yes,467307.0
+Ca,Alameda-county,Dublin,7720 donohue dr,94568,Single family residential,New,1199999.0,1960,3.0,2.0,1116.0,6600.0,0.0,9,64,71.0,Yes,1202897.0
+Ca,Alameda-county,Oakland,32 harbord ct,94618,Single family residential,New,1895000.0,1940,4.0,2.0,1946.0,5022.0,0.0,9,23,23.0,Yes,2213982.0
+Ca,Alameda-county,Oakland,5223 coronado ave,94618,Single family residential,New,1049000.0,1917,3.0,1.0,1287.0,2970.0,0.0,7,94,74.0,Yes,1362074.0
+Ca,Alameda-county,Oakland,8801 thermal st,94605,Single family residential,New,690000.0,1925,3.0,2.0,1280.0,4940.0,0.0,5,64,32.0,No,698978.0
+Ca,Alameda-county,Oakland,1821 106th ave,94603,Single family residential,New,509950.0,1937,2.0,1.0,1076.0,3900.0,0.0,3,65,74.0,Yes,529846.0
+Ca,Alameda-county,Berkeley,2635 mathews st,94702,Single family residential,New,1170000.0,1912,3.0,2.0,1235.0,2120.0,0.0,8,87,90.0,Yes,1168204.0
+Ca,Alameda-county,Piedmont,174 indian rd,94610,Single family residential,New,2495000.0,1951,3.0,2.5,2643.0,8700.0,0.0,9,29,17.0,Yes,2887974.0
+Ca,Alameda-county,Oakland,1044 86th ave,94621,Single family residential,New,420000.0,1910,2.0,1.0,672.0,3250.0,0.0,5,72,65.0,Yes,420451.0
+Ca,Alameda-county,San leandro,1468 grand ave #18,94577,Single-wide mobile home,Active,90000.0,2020,1.0,1.0,375.0,3250.0,0.0,5,74,58.0,No,90040.0
+Ca,Alameda-county,Hayward,24123 amaranth loop,94541,Single family residential,New,1288000.0,2019,5.0,4.0,2493.0,2482.0,240.0,5,53,22.0,Yes,1301988.0
+Ca,Alameda-county,Pleasanton,993 montevino dr,94566,Single family residential,New,2275000.0,1990,4.0,2.0,2723.0,11761.2,0.0,9,24,18.0,Yes,2296650.0
+Ca,Alameda-county,Oakland,6608 dana st,94609,Condo,New,725000.0,1980,2.0,1.0,1225.0,5200.0,0.0,8,88,99.0,Yes,957390.0
+Ca,Alameda-county,Union city,4209 lunar way,94587,Townhouse,Active,630000.0,1970,2.0,1.0,856.0,1725.0,333.0,8,80,58.0,Yes,630925.0
+Ca,Alameda-county,Castro valley,18426 carlwyn dr,94546,Single family residential,New,1200000.0,1956,4.0,2.5,2118.0,5200.0,0.0,8,43,17.0,Yes,1222036.0
+Ca,Alameda-county,Union city,34717 alvarado niles rd #3,94587,Condo,New,490000.0,1972,2.0,1.0,903.0,5200.0,385.0,8,82,69.0,No,490331.0
+Ca,Alameda-county,Oakland,874 36th st,94608,Multi-family (2-4 unit),New,1016888.0,1912,5.0,4.0,2766.0,4891.0,0.0,7,88,91.0,No,1045112.0
+Ca,Alameda-county,Berkeley,2611 derby st,94705,Single family residential,New,1795000.0,1925,5.0,2.5,2377.0,3400.0,0.0,8,95,95.0,Yes,0.0
+Ca,Alameda-county,Union city,3092 san andreas dr,94587,Single family home,Contingent,898000.0,1970,2.0,1.0,1195.0,5500.0,0.0,8,52,55.0,Yes,922378.0
+Ca,Alameda-county,Oakland,359 bellevue ave,94610,Single family residential,Active,1998000.0,1909,6.0,4.0,3093.0,5000.0,0.0,7,89,85.0,No,2023106.0
+Ca,Alameda-county,Fremont,45009 challenge cmn #200,94538,Condo,Active,950000.0,2020,2.0,2.0,1279.0,9498.0,487.0,8,35,60.0,Yes,950510.0
+Ca,Alameda-county,Newark,7776 hazelnut dr,94560,Single family home,Active,1350000.0,1964,4.0,3.0,2417.0,6693.0,0.0,7,35,44.0,Yes,1381968.0
+Ca,Alameda-county,Oakland,165 w macarthur blvd,94611,Single family residential,New,949000.0,1918,3.0,2.5,1712.0,2800.0,0.0,7,89,68.0,Yes,1177665.0
+Ca,Alameda-county,Berkeley,2632 warring st #5,94704,Condo,New,688000.0,1980,2.0,1.0,845.0,9083.0,360.0,8,85,66.0,No,688716.0
+Ca,Alameda-county,Hayward,29011 newcastle ct,94544,Mobile/manufactured home,Price change,280000.0,1980,2.0,2.0,1344.0,9083.0,0.0,5,50,57.0,Yes,280319.0
+Ca,Alameda-county,Hayward,27496 ponderosa ct,94545,Townhouse,Active,730000.0,1970,4.0,2.5,1474.0,1210.0,268.0,5,64,66.0,No,732892.0
+Ca,Alameda-county,Oakland,764 59th st,94609,Single family residential,Active,1195000.0,1908,4.0,3.0,2262.0,5400.0,0.0,7,90,100.0,No,1312634.0
+Ca,Alameda-county,Union city,3146 san rafael way,94587,Single family residential,Active,900000.0,1934,2.0,1.0,1365.0,10890.0,0.0,8,64,52.0,Yes,911202.0
+Ca,Alameda-county,Newark,37794 rockspray st,94560,Single family residential,New,1250000.0,1969,4.0,2.0,1880.0,7200.0,0.0,6,62,46.0,Yes,1296422.0
+Ca,Alameda-county,Fremont,36360 magellan dr,94536,Single family home,Active,949000.0,1954,3.0,1.0,1111.0,5414.0,0.0,7,61,53.0,Yes,1002825.0
+Ca,Alameda-county,Oakland,2629 octavia st,94619,Single family residential,New,569000.0,1922,3.0,1.0,958.0,2400.0,0.0,5,64,67.0,No,612010.0
+Ca,Alameda-county,Union city,2499 balmoral st,94587,Single family residential,New,1398000.0,1967,4.0,3.0,3374.0,9765.0,0.0,8,63,45.0,Yes,1398217.0
+Ca,Alameda-county,Hayward,30021 mountain view dr,94544,Single family home,Active,1698000.0,2018,4.0,3.0,2734.0,3609.0,141.0,3,15,7.0,Yes,1794715.0
+Ca,Alameda-county,Livermore,165 el caminito,94550,Single family residential,New,799800.0,1964,3.0,2.0,1484.0,6120.0,0.0,7,35,66.0,Yes,831092.0
+Ca,Alameda-county,Fremont,41004 genesis cmn,94538,Townhouse,New,1099900.0,2018,3.0,2.5,1662.0,1025.0,282.0,8,86,61.0,Yes,1114627.0
+Ca,Alameda-county,Alameda,50 bannister way,94502,Single family residential,Active,1350000.0,1991,3.0,2.5,1772.0,3340.0,426.0,9,24,64.0,Yes,1517271.0
+Ca,Alameda-county,Oakland,5879 saint paul ct,94618,Single family residential,Active,1398000.0,1947,3.0,2.5,2743.0,5310.0,0.0,9,28,28.0,Yes,1607142.0
+Ca,Alameda-county,Fremont,4762 driftwood,94536,Single family residential,Active,1199000.0,1955,3.0,2.0,1167.0,5580.0,0.0,7,37,45.0,Yes,1206434.0
+Ca,Alameda-county,Oakland,5901 la salle,94611,Single family residential,New,1395000.0,1946,3.0,2.5,2154.0,5757.0,0.0,8,87,40.0,Yes,1775017.0
+Ca,Alameda-county,Oakland,2015 bywood dr,94602,Single family residential,New,1798000.0,1952,4.0,3.5,2684.0,10890.0,6.0,7,47,23.0,Yes,2147875.0
+Ca,Alameda-county,Albany,1129 portland ave,94706,Single family residential,New,875000.0,1951,2.0,1.0,884.0,2600.0,0.0,9,93,98.0,Yes,911138.0
+Ca,Alameda-county,Pleasanton,647 saint francis way,94566,Townhouse,Active,965000.0,1984,3.0,2.5,1540.0,1088.0,320.0,9,68,61.0,Yes,969235.0
+Ca,Alameda-county,Livermore,93 fawn dr,94550,Single family residential,New,1249000.0,2000,4.0,2.5,1735.0,6833.0,0.0,7,11,59.0,Yes,0.0
+Ca,Alameda-county,Newark,8511 leeward way,94560,Townhouse,Active,1299000.0,2019,4.0,3.5,2109.0,10890.0,392.0,5,21,34.0,Yes,1298061.0
+Ca,Alameda-county,Hayward,28817 hideaway st,94544,Townhouse,Active,1249000.0,2019,4.0,3.5,1969.0,1856.0,308.0,3,51,25.0,Yes,1248784.0
+Ca,Alameda-county,Hayward,960 folsom ave,94544,Single family residential,New,899000.0,1945,4.0,4.0,2010.0,11325.6,0.0,5,33,51.0,Yes,901269.0
+Ca,Alameda-county,Union city,32412 elizabeth way,94587,Single family residential,New,1325000.0,1972,4.0,2.0,1463.0,6000.0,0.0,8,20,44.0,Yes,1380613.0
+Ca,Alameda-county,Castro valley,21529 dolores st,94546,Single family residential,New,749900.0,1948,2.0,1.0,1018.0,5225.0,0.0,5,68,79.0,Yes,755827.0
+Ca,Alameda-county,Oakland,1410 wood st,94607,Single family residential,New,1095000.0,2017,3.0,2.5,1845.0,1928.0,0.0,7,67,83.0,Yes,1213934.0
+Ca,Alameda-county,Alameda,1598 buena vista ave,94501,Single family residential,New,749000.0,1923,2.0,1.0,762.0,2360.0,0.0,9,78,86.0,Yes,819303.0
+Ca,Alameda-county,San leandro,13828 velarde dr,94578,Single family residential,New,850000.0,1956,3.0,2.0,1358.0,6840.0,0.0,5,47,40.0,Yes,854811.0
+Ca,Alameda-county,Oakland,1509 41st,94601,Single family residential,Active,499000.0,1922,3.0,2.0,1200.0,3500.0,0.0,4,95,80.0,Yes,531578.0
+Ca,Alameda-county,Dublin,7686 arbor creek cir,94568,Townhouse,New,769000.0,1986,2.0,1.5,963.0,2313.0,210.0,9,66,71.0,Yes,783267.0
+Ca,Alameda-county,Albany,1145 portland ave,94706,Single family residential,New,895000.0,1940,2.0,1.0,917.0,2500.0,0.0,9,93,98.0,Yes,0.0
+Ca,Alameda-county,Fremont,38345 blacow rd,94536,Single family residential,New,1350000.0,1959,4.0,2.0,1607.0,8698.0,21.0,7,53,44.0,Yes,1376464.0
+Ca,Alameda-county,Castro valley,19841 edwin markham dr,94552,Single family residential,New,1049000.0,1985,3.0,2.0,1852.0,6666.0,68.0,9,9,19.0,Yes,1075539.0
+Ca,Alameda-county,Berkeley,2512 9th st #10,94710,Condo,New,850000.0,1925,1.0,1.0,1244.0,1073.0,276.0,8,87,95.0,No,865836.0
+Ca,Alameda-county,Oakland,551 22nd st,94612,Single family residential,New,699000.0,1902,5.0,2.0,2241.0,3100.0,0.0,7,97,95.0,No,695301.0
+Ca,Alameda-county,Livermore,1107 florence rd,94550,Single family residential,New,1335000.0,1968,4.0,2.0,2024.0,7913.0,0.0,8,38,62.0,Yes,1365248.0
+Ca,Alameda-county,Castro valley,4147 ravenwood pl,94546,Townhouse,New,698000.0,1970,2.0,1.5,1168.0,820.0,355.0,8,59,38.0,Yes,726342.0
+Ca,Alameda-county,Castro valley,3243 barrett ct,94546,Single family residential,New,1078000.0,1960,4.0,2.0,1408.0,6848.0,0.0,8,48,48.0,Yes,1107362.0
+Ca,Alameda-county,Berkeley,1409 oxford #1,94709,Condo,New,876000.0,1962,2.0,2.0,954.0,9855.0,312.0,8,92,79.0,Yes,897858.0
+Ca,Alameda-county,Pleasanton,133 ray st,94566,Condo,Active,759950.0,1987,2.0,2.0,1262.0,9855.0,390.0,9,92,71.0,Yes,760597.0
+Ca,Alameda-county,Dublin,7367 diamond mountain rd,94568,Single family residential,New,2549888.0,2017,4.0,4.0,3627.0,4790.0,232.0,9,1,18.0,Yes,2562855.0
+Ca,Alameda-county,Livermore,742 avalon way,94550,Single family residential,New,1199000.0,1965,4.0,2.0,1872.0,6258.0,0.0,7,41,73.0,Yes,1211620.0
+Ca,Alameda-county,Berkeley,2057 emerson st,94703,Residential income,Active,1299000.0,1900,4.0,2.0,2359.0,5250.0,0.0,8,94,98.0,Yes,1277343.0
+Ca,Alameda-county,Oakland,503 lancaster st #3,94601,Townhouse,New,795000.0,2006,1.0,2.0,1870.0,6863.0,225.0,5,86,89.0,Yes,0.0
+Ca,Alameda-county,San leandro,1776 vining dr,94579,Single family residential,Active,932000.0,1956,4.0,2.0,1377.0,5130.0,0.0,7,55,69.0,Yes,962806.0
+Ca,Alameda-county,Alameda,2205 san antonio ave unit f,94501,Condo,New,684888.0,1975,2.0,1.5,962.0,7500.0,400.0,9,94,74.0,Yes,687857.0
+Ca,Alameda-county,Union city,4574 ellen way,94587,Single family home,Active,1398000.0,1972,4.0,2.5,1907.0,6240.0,0.0,8,30,42.0,Yes,1411042.0
+Ca,Alameda-county,Hayward,24247 machado ct,94541,Single family residential,New,1198989.0,1984,4.0,2.5,2062.0,8173.0,58.0,5,6,6.0,Yes,1207945.0
+Ca,Alameda-county,San leandro,157 santa teresa #157,94579,Double-wide mobile home,Active,245000.0,1971,2.0,2.0,1344.0,3366.0,0.0,7,61,64.0,No,243763.0
+Ca,Alameda-county,Oakland,3030 lynde st,94601,Single family residential,New,850000.0,1931,3.0,1.5,1543.0,5358.0,0.0,5,80,57.0,Yes,861595.0
+Ca,Alameda-county,Fremont,839 nina way,94539,Single family residential,New,2698000.0,1974,4.0,4.0,3057.0,7910.0,0.0,9,53,48.0,Yes,2710659.0
+Ca,Alameda-county,San lorenzo,17041 via andeta,94580-3101,Single family residential,New,599000.0,1944,3.0,1.0,1480.0,5000.0,10.0,4,70,64.0,Yes,612344.0
+Ca,Alameda-county,Castro valley,2868 jennifer dr,94546,Single family residential,New,1023888.0,1965,3.0,2.0,2317.0,6762.0,0.0,8,41,26.0,Yes,1034829.0
+Ca,Alameda-county,Castro valley,22126 lantana ct,94546,Single family residential,New,949000.0,1957,3.0,2.0,1424.0,5060.0,0.0,5,62,55.0,Yes,965450.0
+Ca,Alameda-county,Fremont,4957 eggers dr,94536,Single family residential,New,1700000.0,1954,4.0,2.0,1907.0,9600.0,25.0,7,56,47.0,Yes,1716384.0
+Ca,Alameda-county,Union city,32219 meteor dr,94587,Townhouse,New,924888.0,2011,3.0,2.5,1566.0,1264.0,490.0,8,79,57.0,Yes,920932.0
+Ca,Alameda-county,Oakland,2626 hickory st,94602,Single family residential,New,845000.0,1941,2.0,2.0,1465.0,4128.0,0.0,5,84,73.0,Yes,0.0
+Ca,Alameda-county,Oakland,5822 shattuck ave,94609,Single family residential,New,949000.0,1923,3.0,1.5,1453.0,4160.0,0.0,8,91,98.0,Yes,1202199.0
+Ca,Alameda-county,Hayward,22226 peralta st,94541,Single family residential,New,739000.0,1926,3.0,1.0,1370.0,7500.0,0.0,5,79,61.0,Yes,754122.0
+Ca,Alameda-county,Fremont,37446 parish cir unit 8b,94536,Condo,Active,648000.0,1989,2.0,2.0,942.0,7500.0,310.0,8,82,60.0,Yes,0.0
+Ca,Alameda-county,Dublin,4101 doak ct,94568,Single family residential,New,1399000.0,2000,4.0,2.5,2009.0,3290.0,155.0,9,49,68.0,Yes,1433231.0
+Ca,Alameda-county,Livermore,5960 greenwood cmn,94550,Single family home,Active,1149999.0,2002,3.0,2.5,1751.0,2924.0,132.0,7,27,63.0,Yes,1182437.0
+Ca,Alameda-county,Union city,4717 michelle way,94587,Single family residential,New,1450000.0,1974,5.0,2.0,1926.0,6300.0,0.0,8,13,45.0,Yes,1467430.0
+Ca,Alameda-county,Oakland,957 54th,94508,Multi-family (2-4 unit),Active,1399000.0,1900,5.0,1.0,2789.0,4800.0,0.0,7,88,99.0,No,1377642.0
+Ca,Alameda-county,Oakland,6035 holway st,94621,Single family residential,New,550000.0,1923,3.0,2.0,1334.0,3600.0,0.0,5,81,56.0,Yes,551587.0
+Ca,Alameda-county,Dublin,5517 gracen way,94568,Condo,Active,1396998.0,2019,5.0,4.0,2738.0,7174.0,410.0,9,20,61.0,Yes,1392703.0
+Ca,Alameda-county,Oakland,4908 fairfax ave,94601,Single family home,Active,998000.0,1915,4.0,2.0,1617.0,6200.0,0.0,4,75,42.0,Yes,1033850.0
+Ca,Alameda-county,San leandro,2338 w w ave 133rd,94577,Single family residential,New,785000.0,1941,2.0,2.0,862.0,7479.0,0.0,5,74,79.0,Yes,787749.0
+Ca,Alameda-county,San leandro,16795 ehle st,94578,Single family residential,New,670000.0,1940,3.0,1.0,930.0,5200.0,0.0,4,44,17.0,Yes,665501.0
+Ca,Alameda-county,Livermore,358 albatross ave,94551,Multi-family (2-4 unit),New,1098888.0,1959,4.0,3.0,2005.0,5393.0,0.0,7,71,78.0,Yes,1083715.0
+Ca,Alameda-county,Oakland,1449 auseon ave,94621,Single family residential,New,599000.0,1924,2.0,1.0,1477.0,4120.0,0.0,5,78,58.0,Yes,597573.0
+Ca,Alameda-county,Oakland,2121 manzanita,94611,Single family residential,New,1195000.0,1971,3.0,2.5,2342.0,4500.0,0.0,8,10,22.0,Yes,1411835.0
+Ca,Alameda-county,Oakland,5025 woodminster ln #104,94602,Condo,New,599999.0,1966,2.0,1.0,1071.0,7195.0,387.0,7,42,27.0,Yes,598608.0
+Ca,Alameda-county,Oakland,5700 cabot dr,94611,Single family residential,New,1595000.0,1941,4.0,2.5,2228.0,7168.0,0.0,8,76,36.0,Yes,1953278.0
+Ca,Alameda-county,Berkeley,1733 francisco st unit d,94703,Townhouse,New,975000.0,1969,3.0,1.5,1160.0,7325.0,275.0,8,90,98.0,Yes,1127586.0
+Ca,Alameda-county,Oakland,4830 ygnacio blvd,94601,Single family residential,Active,599000.0,1920,3.0,2.0,1122.0,3680.0,0.0,4,85,57.0,Yes,642171.0
+Ca,Alameda-county,San leandro,15235 central ave,94578,Single family residential,New,829000.0,1947,4.0,2.0,1632.0,5400.0,0.0,5,47,55.0,No,844713.0
+Ca,Alameda-county,Dublin,7527 frederiksen ln,94568,Single family home,Active,1199000.0,1964,3.0,2.0,1053.0,6504.0,0.0,9,45,68.0,Yes,1223956.0
+Ca,Alameda-county,Hayward,3672 skyline dr,94542,Single family residential,New,999888.0,1976,4.0,2.5,2067.0,8931.0,0.0,5,16,21.0,Yes,1055437.0
+Ca,Alameda-county,Oakland,805 paloma ave,94610,Single family residential,New,949000.0,1920,2.0,1.0,1052.0,2479.0,0.0,9,67,52.0,Yes,1287142.0
+Ca,Alameda-county,Oakland,3214 13th ave,94610,Multi-family (2-4 unit),New,679999.0,1895,4.0,2.0,1662.0,2097.0,0.0,7,64,48.0,No,686042.0
+Ca,Alameda-county,Oakland,285 sextus rd,94603,Single family residential,Coming soon,569000.0,1943,3.0,1.0,1339.0,6660.0,0.0,3,53,65.0,No,0.0
+Ca,Alameda-county,Fremont,32507 lake chabot st,94555,Single family residential,Active,1650000.0,1973,4.0,2.0,1476.0,6534.0,0.0,9,52,55.0,Yes,1635175.0
+Ca,Alameda-county,Livermore,2745 kellogg loop,94550,Single family residential,New,1775000.0,2004,5.0,4.0,3287.0,11325.6,8.0,7,8,66.0,Yes,1802706.0
+Ca,Alameda-county,Castro valley,4253 moreland dr,94546,Single family residential,New,949888.0,1953,4.0,2.5,1715.0,5750.0,0.0,8,51,32.0,Yes,969016.0
+Ca,Alameda-county,Alameda,1204 court st,94501,Single family residential,New,1095000.0,1918,3.0,2.0,1193.0,3840.0,0.0,9,84,85.0,No,1292101.0
+Ca,Alameda-county,Fremont,3856 carol ave,94538,Single family residential,New,1599900.0,1954,4.0,3.0,1586.0,5004.0,0.0,8,85,68.0,Yes,1640466.0
+Ca,Alameda-county,Berkeley,2708 prince st,94705,Single family residential,New,1250000.0,1921,2.0,1.0,1060.0,4375.0,0.0,8,96,93.0,Yes,0.0
+Ca,Alameda-county,Oakland,1520 union st,94607-2221,Single family residential,New,949000.0,1911,3.0,2.0,1414.0,7425.0,0.0,7,84,97.0,Yes,1038654.0
+Ca,Alameda-county,Fremont,1053 huntington cmn,94536,Condo,New,899950.0,1988,3.0,2.5,1284.0,7425.0,426.0,7,28,68.0,Yes,897978.0
+Ca,Alameda-county,Oakland,4424 camden,94619,Single family residential,Active,700000.0,1945,2.0,1.0,1182.0,4399.0,0.0,5,82,46.0,Yes,719865.0
+Ca,Alameda-county,San leandro,1473 daily dr,94577,Single family residential,New,1225000.0,1958,3.0,2.5,3200.0,10414.0,0.0,6,11,3.0,Yes,1286822.0
+Ca,Alameda-county,Oakland,3239 c louise st,94608,Single family residential,New,1095000.0,2017,3.0,3.5,2008.0,1812.0,0.0,7,85,98.0,Yes,1176836.0
+Ca,Alameda-county,Hayward,29048 mendez rd,94544,Mobile/manufactured home,New,298000.0,2017,2.0,2.0,1480.0,1812.0,0.0,3,42,57.0,Yes,297729.0
+Ca,Alameda-county,Fremont,4376 hyde cmn,94538,Single family residential,New,1399800.0,2010,4.0,3.5,1737.0,10706.0,298.0,8,82,58.0,Yes,1451634.0
+Ca,Alameda-county,Oakland,665 s elmhurst ave,94603,Single family home,Active,498000.0,1907,2.0,1.0,945.0,5000.0,0.0,3,67,60.0,No,500867.0
+Ca,Alameda-county,Hayward,29358 sandburg way,94544,Mobile/manufactured home,Active,330000.0,1977,2.0,2.0,1512.0,5000.0,0.0,5,55,66.0,No,329927.0
+Ca,Alameda-county,Pleasanton,6082 allbrook cir,94588,Single family residential,New,1700000.0,1967,5.0,3.0,2326.0,7317.0,0.0,9,53,76.0,Yes,1696705.0
+Ca,Alameda-county,Hayward,19063 lowell ave,94541,Single family residential,New,699000.0,1923,2.0,1.0,780.0,15245.999999999998,0.0,4,58,54.0,Yes,735272.0
+Ca,Alameda-county,Livermore,5330 sandra way,94550,Single family residential,New,1198000.0,1968,3.0,2.5,2174.0,9992.0,0.0,7,21,67.0,Yes,1232529.0
+Ca,Alameda-county,Piedmont,9 selborne dr,94611,Single family residential,New,2695000.0,1953,4.0,3.5,3758.0,6468.0,0.0,9,45,22.0,Yes,2893457.0
+Ca,Alameda-county,Pleasanton,2161 armstrong dr,94588,Single family residential,New,1358800.0,1984,3.0,2.5,1468.0,3549.0,15.0,9,46,74.0,Yes,1385644.0
+Ca,Alameda-county,Hayward,2652 darwin st,94545,Single family residential,Active,829000.0,1956,3.0,2.0,1281.0,5000.0,0.0,8,63,61.0,Yes,833419.0
+Ca,Alameda-county,Hayward,1970 barton way,94545,Single family home,Active,1029800.0,1992,4.0,2.5,1751.0,3500.0,0.0,5,53,40.0,Yes,1070674.0
+Ca,Alameda-county,Berkeley,20 brookside ave,94705,Single family residential,New,3195000.0,1916,3.0,3.0,3472.0,6222.0,0.0,8,91,64.0,Yes,0.0
+Ca,Alameda-county,Oakland,3039 60th ave,94605,Single family residential,New,798000.0,1925,3.0,2.0,1335.0,4360.0,0.0,3,79,66.0,Yes,793647.0
+Ca,Alameda-county,Union city,2613 central ct,94587,Single family home,Active,1429999.0,1975,4.0,2.0,1544.0,7600.0,0.0,8,47,60.0,Yes,1419408.0
+Ca,Alameda-county,Fremont,3777 oxford cmn,94536,Townhouse,Active,745000.0,1973,2.0,1.5,1024.0,792.0,295.0,8,54,51.0,No,745923.0
+Ca,Alameda-county,Livermore,240 scherman way,94550,Single family residential,New,1299000.0,1971,4.0,2.0,1452.0,7430.0,0.0,7,17,62.0,Yes,1295785.0
+Ca,Alameda-county,Fremont,4467 red oak cmn,94538,Single family residential,New,1650000.0,1986,3.0,2.5,1633.0,3744.0,132.0,8,54,50.0,Yes,1676080.0
+Ca,Alameda-county,Fremont,39078 guardino dr #106,94538,Condo,Active,498000.0,1990,1.0,1.0,693.0,3744.0,523.0,7,45,64.0,Yes,0.0
+Ca,Alameda-county,Oakland,3849 west st,94608,Single family residential,New,975000.0,2022,3.0,3.0,1602.0,1429.0,0.0,7,87,99.0,Yes,1025094.0
+Ca,Alameda-county,Fremont,244 scotia ct,94539,Single family home,Active,3098888.0,1989,4.0,3.0,3168.0,8368.0,0.0,9,30,38.0,Yes,3096689.0
+Ca,Alameda-county,Oakland,1866 mountain blvd,94611,Single family residential,New,1795000.0,1949,4.0,3.0,2556.0,5408.0,0.0,8,85,41.0,Yes,2117403.0
+Ca,Alameda-county,San lorenzo,16150 ashland #50,94580,Mobile/manufactured home,Price change,129000.0,1949,2.0,1.0,806.0,5408.0,0.0,4,63,55.0,Yes,123763.0
+Ca,Alameda-county,Oakland,976 53rd st,94608,Single family residential,New,1249000.0,2022,5.0,3.0,1950.0,4800.0,0.0,7,88,99.0,No,1245182.0
+Ca,Alameda-county,Castro valley,2877 crystal ct,94546,Townhouse,New,579900.0,1978,2.0,1.5,1048.0,2435.0,149.0,5,45,53.0,Yes,605532.0
+Ca,Alameda-county,Hayward,27753 la porte ave,94545,Single family residential,New,838000.0,1955,3.0,2.0,1000.0,5000.0,0.0,5,27,56.0,Yes,0.0
+Ca,Alameda-county,Berkeley,135 tunnel rd,94705,Single family residential,New,1949000.0,1912,4.0,2.5,2904.0,5814.0,0.0,8,77,66.0,No,2207375.0
+Ca,Alameda-county,Oakland,817 henry st,94607,Single family residential,New,589000.0,1920,1.0,1.0,740.0,1100.0,0.0,7,82,99.0,No,589916.0
+Ca,Alameda-county,Livermore,1062 lambaren ave,94551,Single family residential,Active,749000.0,1920,3.0,1.0,982.0,5000.0,0.0,7,84,82.0,Yes,754047.0
+Ca,Alameda-county,Berkeley,2211 mckinley ave,94703,Single family residential,New,1475000.0,1919,3.0,2.0,1507.0,5200.0,0.0,8,92,99.0,Yes,1582992.0
+Ca,Alameda-county,Union city,34806 starling dr #3,94587,Condo,Active,545000.0,1972,2.0,1.0,903.0,5200.0,385.0,8,75,74.0,No,543938.0
+Ca,Alameda-county,Oakland,3043 capp st,94602,Single family residential,New,749950.0,1908,3.0,2.0,1208.0,7500.0,0.0,5,83,65.0,Yes,746939.0
+Ca,Alameda-county,Union city,4836 christine ct,94587,Single family residential,New,1150000.0,1975,3.0,2.0,1374.0,9179.0,0.0,8,9,50.0,Yes,1164178.0
+Ca,Alameda-county,Berkeley,2322 eighth st,94710,Single family residential,New,959000.0,1907,2.0,2.0,1144.0,3240.0,0.0,8,92,95.0,Yes,1125506.0
+Ca,Alameda-county,Oakland,5431 holland,94601,Single family residential,New,560000.0,1996,3.0,1.5,1350.0,3690.0,0.0,3,82,69.0,Yes,575543.0
+Ca,Alameda-county,Berkeley,1625 san lorenzo ave,94707,Single family residential,Active,1199000.0,1925,2.0,2.0,1153.0,4100.0,0.0,8,93,78.0,Yes,1413237.0
+Ca,Alameda-county,Oakland,956 54th st,94608,Single family residential,New,1050000.0,1900,3.0,2.0,2000.0,3000.0,0.0,7,89,99.0,Yes,1214613.0
+Ca,Alameda-county,Berkeley,2214 browning st,94702,Single family residential,Active,1249000.0,1918,3.0,2.0,1560.0,3840.0,0.0,8,92,99.0,Yes,0.0
+Ca,Alameda-county,Livermore,5811 wilma ct,94550,Single family residential,New,1774888.0,1998,5.0,3.5,3433.0,16988.4,0.0,7,14,61.0,Yes,0.0
+Ca,Alameda-county,Pleasanton,822 saint john ct,94566,Single family home,Active,1799000.0,1997,4.0,3.0,2600.0,4000.0,67.0,9,78,72.0,Yes,1800272.0
+Ca,Alameda-county,Oakland,3021 75th ave,94605,Single family residential,New,899000.0,1962,3.0,3.0,2492.0,3404.0,0.0,4,64,32.0,Yes,946417.0
+Ca,Alameda-county,Oakland,7509 deerwood ave,94605,Single family residential,New,699995.0,1941,3.0,2.0,1750.0,3956.0,0.0,5,76,72.0,No,707500.0
+Ca,Alameda-county,Alameda,2828 encinal,94501,Single family residential,New,898000.0,1900,2.0,1.0,1000.0,2556.0,0.0,9,81,83.0,No,1094301.0
+Ca,Alameda-county,Oakland,199 montecito ave #206,94610,Condo,Active,365000.0,1971,1.0,1.0,625.0,10800.0,389.0,8,92,80.0,Yes,365251.0
+Ca,Alameda-county,Dublin,8051 crossridge rd,94568-3496,Single family residential,New,1649000.0,1988,5.0,2.5,2487.0,5666.0,0.0,9,12,40.0,Yes,1665235.0
+Ca,Alameda-county,Oakland,6154 mazuela dr,94611,Single family residential,New,1749000.0,2002,4.0,4.0,3477.0,16117.199999999999,119.0,8,35,30.0,Yes,2172570.0
+Ca,Alameda-county,Oakland,579 57th st,94609,Single family residential,New,1395000.0,1932,5.0,2.0,2497.0,4183.0,0.0,8,92,90.0,Yes,1401880.0
+Ca,Alameda-county,Union city,2427 balmoral st,94587,Single family residential,Active,1274900.0,1968,4.0,2.0,1888.0,9121.0,0.0,8,32,48.0,Yes,1270561.0
+Ca,Alameda-county,Oakland,2341 82nd ave,94605-3409,Single family residential,New,680000.0,1919,3.0,2.0,1268.0,6624.0,0.0,4,72,63.0,Yes,676842.0
+Ca,Alameda-county,Oakland,4016 fruitvale ave,94602,Single family residential,New,1089000.0,1953,3.0,2.0,1831.0,5457.0,0.0,7,63,32.0,Yes,1377973.0
+Ca,Alameda-county,Fremont,36345 frobisher dr,94536,Single family residential,Active,1200000.0,1956,4.0,2.0,1599.0,6609.0,0.0,7,49,47.0,Yes,1208003.0
+Ca,Alameda-county,Oakland,3006 madeline st,94602,Single family residential,Active,629000.0,1923,2.0,1.0,816.0,4000.0,0.0,5,83,49.0,Yes,762475.0
+Ca,Alameda-county,Piedmont,558 crofton ave,94610,Single family residential,New,2550000.0,1924,4.0,2.5,2463.0,6250.0,0.0,9,85,58.0,Yes,2634615.0
+Ca,Alameda-county,Hayward,29552 chance st,94544,Single family residential,New,899000.0,1988,3.0,2.0,1154.0,1154.0,0.0,3,35,67.0,Yes,901714.0
+Ca,Alameda-county,Oakland,3216 brookdale ave,94602,Single family residential,New,899999.0,1952,4.0,2.0,2153.0,6650.0,0.0,5,68,57.0,No,918710.0
+Ca,Alameda-county,Fremont,34249 xanadu ter,94555,Single family residential,New,1799950.0,1989,4.0,2.5,1812.0,3377.0,33.0,9,42,54.0,Yes,1832384.0
+Ca,Alameda-county,Alameda,1 barker ct,94501,Single family residential,New,1198800.0,1998,3.0,2.5,1622.0,2399.0,115.0,7,86,89.0,Yes,1216077.0
+Ca,Alameda-county,Livermore,1289 accra ct,94550,Single family residential,New,1279000.0,1971,3.0,2.0,1728.0,8051.0,0.0,8,58,65.0,Yes,1307443.0
+Ca,Alameda-county,San leandro,14684 cypress st,94579,Single family home,Active,939000.0,1953,3.0,2.0,1694.0,5130.0,0.0,8,47,60.0,Yes,945342.0
+Ca,Alameda-county,Oakland,470 65th st,94609,Single family residential,New,1395000.0,1924,3.0,2.0,2176.0,4240.0,0.0,8,92,99.0,Yes,1710309.0
+Ca,Alameda-county,Hayward,2509 tahoe ave,94545,Single family home,Active,968000.0,1965,4.0,2.0,1672.0,6800.0,0.0,5,66,53.0,Yes,1002447.0
+Ca,Alameda-county,Oakland,4824 trinidad ave,94602,Single family residential,New,1095000.0,1963,3.0,2.0,2158.0,8134.0,0.0,5,6,12.0,Yes,1369222.0
+Ca,Alameda-county,San lorenzo,16032 via descanso,94580,Single family residential,New,749000.0,1944,3.0,1.0,1000.0,5000.0,10.0,4,72,64.0,Yes,762321.0
+Ca,Alameda-county,Fremont,43139 calle sagrada,94539,Single family residential,New,1995000.0,2019,4.0,3.5,2374.0,1451.0,180.0,9,63,53.0,Yes,2003417.0
+Ca,Alameda-county,Hayward,188 briarwood dr,94544,Townhouse,New,699000.0,1973,2.0,2.5,1340.0,2072.0,371.0,3,64,70.0,Yes,699634.0
+Ca,Alameda-county,Oakland,2800 best ave,94619,Single family residential,New,925000.0,1922,5.0,3.0,1924.0,4428.0,0.0,3,66,32.0,Yes,996838.0
+Ca,Alameda-county,Hayward,24719 townsend ave,94544,Single family residential,Active,889000.0,1958,3.0,2.0,1419.0,5850.0,0.0,5,68,58.0,Yes,940258.0
+Ca,Alameda-county,Dublin,3420 finnian way #108,94568,Condo,New,796643.0,2007,2.0,2.5,1386.0,5850.0,410.0,9,58,61.0,Yes,794761.0
+Ca,Alameda-county,Oakland,215 hunter ave,94603,Single family residential,Price change,539900.0,1943,3.0,1.0,782.0,4212.0,0.0,3,52,57.0,Yes,542579.0
+Ca,Alameda-county,Oakland,1115 72nd ave,94621,Single family residential,New,600000.0,1948,3.0,2.0,1389.0,4500.0,0.0,5,76,66.0,Yes,609748.0
+Ca,Alameda-county,Oakland,7350 holly st,94621,Single family residential,New,675000.0,1926,4.0,2.0,1523.0,3150.0,0.0,5,73,68.0,Yes,693580.0
+Ca,Alameda-county,Fremont,43154 calle familia,94539,Single family residential,New,2049888.0,2017,4.0,3.5,2374.0,1688.0,182.0,9,63,53.0,Yes,2043536.0
+Ca,Alameda-county,Fremont,34152 audrey ct,94555,Single family residential,Active,1899999.0,1986,4.0,2.5,1717.0,5593.0,0.0,9,61,63.0,Yes,1898484.0
+Ca,Alameda-county,Fremont,4881 bryce canyon park dr,94538,Single family home,Active,1399000.0,1963,3.0,2.0,1347.0,5900.0,0.0,7,46,49.0,Yes,1415781.0
+Ca,Alameda-county,San leandro,14301 santiago rd,94577,Single family residential,New,888888.0,1963,3.0,2.0,1126.0,6188.0,0.0,5,49,49.0,Yes,896724.0
+Ca,Alameda-county,Berkeley,161 tamalpais rd,94708,Single family residential,New,1095000.0,1983,2.0,2.0,1480.0,7713.0,0.0,8,39,37.0,Yes,1273397.0
+Ca,Alameda-county,Oakland,171 marlow dr,94605,Single family residential,Active,950000.0,1946,2.0,1.5,1108.0,9155.0,8.0,4,50,23.0,Yes,1041666.0
+Ca,Alameda-county,Oakland,3127 62nd ave,94605,Single family residential,Active,879000.0,1927,4.0,2.0,1788.0,5500.0,0.0,3,82,64.0,No,878927.0
+Ca,Alameda-county,Berkeley,2444 virginia st unit b,94709,Condo,New,775000.0,1932,2.0,2.0,900.0,12632.4,300.0,8,91,77.0,Yes,818761.0
+Ca,San-mateo-county,San bruno,131 camellia ct,94066,Single family home,Active,1498000.0,1958,4.0,2.0,1580.0,6313.0,0.0,6,27,9.0,Yes,1525029.0
+Ca,San-mateo-county,San mateo,1685 s norfolk st,94403,Single family residence,Active,1999999.0,1954,5.0,4.0,1602.0,5000.0,0.0,8,64,67.0,No,2008367.0
+Ca,San-mateo-county,Pacifica,264 berendos ave,94044,Single family home,Active,1295000.0,1953,3.0,2.0,1310.0,6832.0,0.0,7,9,3.0,Yes,1333018.0
+Ca,San-mateo-county,San bruno,110 trinity ct,94066,Single family home,Active,1725000.0,1967,4.0,3.0,2140.0,5000.0,0.0,7,16,10.0,Yes,1691634.0
+Ca,San-mateo-county,East palo alto,916 oakes st,94303,Single family home,Active,1500000.0,2000,4.0,2.5,1890.0,3022.0,14.0,7,64,71.0,Yes,1512428.0
+Ca,San-mateo-county,San carlos,1902 san carlos ave,94070,Single family home,Active,1899000.0,1936,3.0,2.0,1740.0,5800.0,0.0,9,49,46.0,Yes,1957613.0
+Ca,San-mateo-county,Redwood city,322 beresford ave,94061,Single family home,Active,1800000.0,1950,3.0,1.5,1010.0,4794.0,0.0,6,67,62.0,Yes,1834126.0
+Ca,San-mateo-county,Daly city,65 alexander ave,94014,Single family residential,Active,1398000.0,1927,4.0,3.0,1670.0,2500.0,0.0,7,76,26.0,Yes,1412453.0
+Ca,San-mateo-county,South san francisco,115 dundee dr,94080,Single family home,Active,1399000.0,1952,3.0,2.0,2070.0,14810.400000000001,0.0,7,46,19.0,Yes,1417391.0
+Ca,San-mateo-county,South san francisco,200 linden ave #711,94080,Condo,Active,920000.0,1952,2.0,1.0,990.0,14810.400000000001,514.0,5,96,72.0,Yes,908701.0
+Ca,San-mateo-county,Daly city,30 alpine ave,94015,Single family home,Active,998000.0,1955,3.0,1.0,1060.0,3400.0,0.0,7,70,42.0,Yes,1021946.0
+Ca,San-mateo-county,Portola valley,180 mimosa way,94028,Single family home,Active,3198000.0,1953,2.0,2.0,1780.0,11761.2,0.0,8,16,15.0,Yes,3215059.0
+Ca,San-mateo-county,San carlos,103 mirabel pl,94070,Single family home,Active,2398888.0,2014,4.0,3.5,2339.0,3922.0,311.0,9,85,51.0,Yes,2484402.0
+Ca,San-mateo-county,Burlingame,1517 cypress ave,94010,Single family home,Active,2888000.0,1922,3.0,2.0,2080.0,6600.0,0.0,9,97,80.0,Yes,2891094.0
+Ca,San-mateo-county,Burlingame,106 los montes dr,94010,Single family home,Active,2900000.0,1951,3.0,2.0,1570.0,10709.0,0.0,9,12,14.0,Yes,2937369.0
+Ca,San-mateo-county,Menlo park,854 cambridge ave,94025,Single family home,Active,2993000.0,1948,4.0,3.0,1710.0,7560.0,0.0,9,73,94.0,Yes,3022361.0
+Ca,San-mateo-county,San mateo,924 10th ave,94402,Multi-family (2-4 unit),Active,1418000.0,1937,3.0,2.0,1710.0,5085.0,0.0,8,80,82.0,Yes,0.0
+Ca,San-mateo-county,San mateo,3929 casanova dr,94403,Single family home,Active,1498000.0,1950,3.0,1.0,1080.0,5000.0,0.0,7,58,76.0,Yes,1597319.0
+Ca,San-mateo-county,San mateo,729 murphy dr,94402,Single family home,Active,2850000.0,1973,4.0,3.0,2860.0,8509.0,0.0,8,10,8.0,Yes,2851727.0
+Ca,San-mateo-county,East palo alto,480 e o'keefe st #217,94303,Condo,Active,475000.0,1981,1.0,1.0,613.0,2500.0,450.0,7,62,80.0,Yes,475564.0
+Ca,San-mateo-county,Menlo park,1108 henderson ave,94025,Single family home,Active,1149000.0,1954,3.0,1.0,1310.0,4720.0,0.0,7,59,74.0,Yes,1147058.0
+Ca,San-mateo-county,Daly city,196 westmoor ave,94015,Single family residential,Active,1295000.0,1956,3.0,2.0,1470.0,3300.0,0.0,7,77,54.0,Yes,0.0
+Ca,San-mateo-county,Burlingame,715 burlingame ave,94010,Single family home,Active,2895000.0,1937,4.0,2.0,2700.0,5000.0,0.0,9,89,77.0,Yes,2891745.0
+Ca,San-mateo-county,San mateo,664 bermuda dr,94403,Single family home,Active,1375000.0,1954,3.0,2.0,1210.0,5200.0,30.0,7,78,76.0,Yes,1414366.0
+Ca,San-mateo-county,South san francisco,21 pointe view pl,94080,Single family home,Active,1298000.0,2004,4.0,3.5,2490.0,3434.0,207.0,7,64,42.0,Yes,1309718.0
+Ca,San-mateo-county,Millbrae,849 tioga dr,94030,Single family home,Active,2295000.0,1965,4.0,2.0,2120.0,9100.0,0.0,9,28,12.0,Yes,2367564.0
+Ca,San-mateo-county,Foster city,101 calypso ln,94404,Condo,Active,2338000.0,2022,4.0,3.5,2239.0,9100.0,487.0,0,77,55.0,Yes,0.0
+Ca,San-mateo-county,Redwood city,1228 ebener st,94061,Single family home,Active,1998000.0,1990,4.0,3.5,3060.0,7580.0,0.0,6,77,71.0,Yes,2029582.0
+Ca,San-mateo-county,San bruno,2620 fleetwood dr,94066,Single family home,Active,1198000.0,1954,3.0,2.0,1110.0,6215.0,0.0,6,25,34.0,No,1208677.0
+Ca,San-mateo-county,South san francisco,3612 callan blvd,94080,Single family residential,Active,1250000.0,1974,3.0,2.5,1540.0,2500.0,0.0,8,70,32.0,Yes,1261995.0
+Ca,San-mateo-county,Redwood city,1650 james ave,94062,Single family home,Active,2400000.0,1955,3.0,2.5,2430.0,6250.0,0.0,6,58,67.0,Yes,2388159.0
+Ca,San-mateo-county,Millbrae,240 poplar ave,94030,Single family home,Active,1968000.0,1928,3.0,3.0,2324.0,5520.0,0.0,9,91,54.0,Yes,2045923.0
+Ca,San-mateo-county,Belmont,903 ruth ave,94002,Single family home,Active,1998000.0,1947,3.0,2.0,1450.0,5500.0,0.0,9,80,38.0,Yes,2044860.0
+Ca,San-mateo-county,Foster city,853 vespucci ln,94404,Townhouse,Active,1488000.0,1974,2.0,1.5,1460.0,1855.0,420.0,9,78,60.0,Yes,1489762.0
+Ca,San-mateo-county,East palo alto,239 gardenia way,94303,Single family home,Active,979000.0,1954,3.0,2.0,1570.0,7250.0,0.0,7,45,73.0,Yes,979927.0
+Ca,San-mateo-county,San carlos,22 del rey ct,94070,Single family home,Active,2870000.0,1957,4.0,3.0,2144.0,6800.0,0.0,9,58,23.0,Yes,0.0
+Ca,San-mateo-county,South san francisco,435 yellowstone dr,94080,Single family home,Active,1398000.0,1959,3.0,2.0,1360.0,5040.0,0.0,6,11,11.0,Yes,0.0
+Ca,San-mateo-county,East palo alto,767 carole ct,94303,Single family residential,Active,1685000.0,2005,5.0,2.5,3159.0,6510.0,0.0,7,78,75.0,Yes,1696548.0
+Ca,San-mateo-county,Pacifica,828 linda mar blvd,94044,Single family home,Active,1450000.0,1954,3.0,2.0,1540.0,4950.0,0.0,7,69,51.0,Yes,0.0
+Ca,San-mateo-county,Foster city,248 puffin ct,94404,Single family home,Active,2589000.0,1965,4.0,2.5,2300.0,6175.0,0.0,7,32,64.0,Yes,2724325.0
+Ca,San-mateo-county,Burlingame,113 alturas dr,94010,Single family home,Active,2698000.0,1949,4.0,3.0,2110.0,10890.0,0.0,9,14,13.0,Yes,2720649.0
+Ca,San-mateo-county,San carlos,760 sunset dr,94070,Single family home,Active,2495000.0,1963,3.0,2.0,1860.0,12632.4,0.0,9,21,26.0,Yes,0.0
+Ca,San-mateo-county,San mateo,473 landeros dr unit n5,94403,Townhouse,Price change,1468000.0,2014,2.0,2.0,1353.0,1322.0,363.0,7,71,80.0,Yes,1467834.0
+Ca,San-mateo-county,Redwood city,821 shepard way,94062,Single family home,Active,2995000.0,1969,4.0,3.0,2680.0,8000.0,0.0,8,30,43.0,Yes,3042553.0
+Ca,San-mateo-county,San carlos,2116 greenwood ave,94070,Single family home,Active,1988000.0,1946,2.0,1.0,1070.0,7920.0,0.0,9,52,59.0,Yes,1972606.0
+Ca,San-mateo-county,Foster city,591 pilgrim dr,94404,Condo,Active,1868000.0,2022,3.0,2.5,1866.0,7920.0,487.0,7,77,55.0,Yes,1865023.0
+Ca,San-mateo-county,Millbrae,375 la prenda,94030,Single family residential,Active,2688888.0,1957,3.0,3.5,1920.0,13068.0,0.0,9,7,15.0,Yes,2836746.0
+Ca,San-mateo-county,Redwood city,8 odessa ct,94063,Single family home,Active,1688888.0,1947,4.0,3.0,1913.0,6000.0,0.0,6,64,63.0,Yes,1943079.0
+Ca,San-mateo-county,Redwood city,163 somerset st,94062,Single family home,Active,2700000.0,1925,3.0,2.0,1920.0,6500.0,0.0,9,55,61.0,Yes,2755321.0
+Ca,San-mateo-county,Burlingame,1046 laguna ave,94010,Single family home,Active,2199950.0,1993,3.0,3.5,2170.0,5750.0,200.0,9,89,85.0,Yes,2199606.0
+Ca,San-mateo-county,San carlos,618 walnut st #404,94070,Condo,Active,1149000.0,2003,2.0,2.0,1310.0,1.0,505.0,9,96,73.0,Yes,1161833.0
+Ca,San-mateo-county,San mateo,1006 college ave,94401,Single family home,Active,1649888.0,1939,3.0,3.0,1786.0,5000.0,0.0,7,71,60.0,Yes,1667399.0
+Ca,San-mateo-county,Millbrae,1112 millbrae ave,94030,Single family home,Active,2830000.0,1959,6.0,4.0,3203.0,6400.0,0.0,9,45,16.0,Yes,2857803.0
+Ca,San-mateo-county,San carlos,343 fairfield dr,94070,Single family home,Active,1560000.0,1948,3.0,1.0,1100.0,5000.0,0.0,9,82,73.0,Yes,1551782.0
+Ca,San-mateo-county,San mateo,128 n el camino real #209,94401,Condo,Active,999000.0,1994,2.0,2.5,1298.0,5000.0,456.0,7,90,70.0,Yes,1005734.0
+Ca,San-mateo-county,Redwood city,3852 jefferson ave,94062,Single family home,Active,2349000.0,1985,3.0,2.5,2510.0,7564.0,0.0,8,30,43.0,Yes,0.0
+Ca,San-mateo-county,San mateo,287 waters park cir,94403,Condo,New,1469990.0,2022,2.0,2.0,1636.0,12196.800000000001,359.0,7,42,71.0,Yes,1458636.0
+Ca,San-mateo-county,Daly city,882 king dr,94015,Single family residential,Active,1349900.0,1960,4.0,2.0,1910.0,3536.0,0.0,7,60,32.0,Yes,1447110.0
+Ca,San-mateo-county,Daly city,493 lakeshire dr,94015,Single family residential,Active,1195000.0,1960,4.0,3.0,1890.0,3366.0,0.0,7,60,25.0,Yes,0.0
+Ca,San-mateo-county,San bruno,2100 pinecrest dr,94066,Single family home,Active,1450000.0,1959,3.0,3.0,2250.0,5050.0,0.0,6,23,9.0,Yes,1519310.0
+Ca,San-mateo-county,San mateo,128 state st,94401,Townhouse,Active,1288888.0,1982,2.0,2.5,1252.0,12632.4,400.0,7,76,66.0,Yes,1325429.0
+Ca,San-mateo-county,Belmont,1134 continentals way,94002,Townhouse,Active,1388000.0,1977,3.0,2.5,1590.0,2400.0,490.0,9,46,35.0,Yes,1469144.0
+Ca,San-mateo-county,Redwood city,925 roosevelt ave,94061,Duplex,Active,1498000.0,1952,4.0,2.0,1971.0,4600.0,0.0,9,57,56.0,Yes,1501798.0
+Ca,San-mateo-county,South san francisco,85 - 87 chestnut ave,94080,Multi-family (2-4 unit),Active,1398000.0,1951,4.0,2.0,2020.0,7228.0,0.0,7,80,75.0,Yes,0.0
+Ca,San-mateo-county,Burlingame,1011 chula vista ave,94010,Single family home,Active,1950000.0,1922,2.0,1.0,1845.0,4830.0,0.0,9,88,84.0,Yes,1905780.0
+Ca,San-mateo-county,Burlingame,1104 oxford rd,94010,Single family residential,Active,2388000.0,1960,3.0,2.0,1810.0,6000.0,0.0,9,68,76.0,Yes,2459740.0
+Ca,San-mateo-county,Daly city,1604 edgeworth ave,94015,Single family residential,Active,1728000.0,2017,4.0,3.0,2095.0,2095.0,220.0,7,78,28.0,Yes,1720976.0
+Ca,San-mateo-county,Redwood city,991 round hill rd,94061,Single family home,Active,2600000.0,1957,5.0,2.0,2490.0,10890.0,0.0,8,18,31.0,Yes,2617153.0
+Ca,San-mateo-county,Half moon bay,2161 saint andrews rd,94019,Single family home,Active,1995000.0,1977,4.0,3.0,3190.0,13503.6,25.0,6,13,58.0,Yes,2033726.0
+Ca,San-mateo-county,Redwood city,190 opal ave,94062,Single family home,Active,2850000.0,1941,3.0,3.0,2055.0,7205.0,0.0,9,48,66.0,Yes,2854803.0
+Ca,San-mateo-county,Half moon bay,403 metzgar st,94019,Single family home,Active,1449000.0,1971,4.0,2.0,1690.0,6760.0,0.0,6,45,78.0,Yes,1470409.0
+Ca,San-mateo-county,Foster city,954 diaz ln,94404,Townhouse,Active,1499000.0,1975,3.0,2.5,1380.0,1550.0,225.0,9,64,56.0,Yes,1497608.0
+Ca,San-mateo-county,Pacifica,252 clarendon rd,94044,Single family residential,Active,799000.0,1980,1.0,1.0,810.0,5130.0,0.0,7,75,28.0,No,804631.0
+Ca,San-mateo-county,Pacifica,269 catalina ave,94044,Single family home,Active,1289000.0,1964,4.0,2.0,1575.0,4000.0,3.0,7,45,20.0,Yes,1305598.0
+Ca,San-mateo-county,Burlingame,40 bloomfield rd,94010,Single family home,Active,2980000.0,1915,5.0,4.0,3380.0,5800.0,0.0,9,87,74.0,Yes,2983344.0
+Ca,San-mateo-county,Foster city,153 beach park blvd,94404,Single family home,Active,1898800.0,1969,4.0,2.5,2000.0,5700.0,0.0,9,48,77.0,Yes,1894512.0
+Ca,San-mateo-county,Pacifica,741 rockaway beach ave,94044,Single family home,Active,2650000.0,1978,5.0,3.0,3650.0,11761.2,0.0,7,33,8.0,Yes,2680045.0
+Ca,San-mateo-county,San mateo,3090 los prados st #20,94403,Condo,Active,689000.0,1966,2.0,2.0,900.0,11761.2,428.0,7,36,81.0,Yes,694581.0
+Ca,San-mateo-county,San mateo,670 30th ave,94403,Single family home,Active,2295000.0,1946,4.0,4.0,2210.0,5400.0,0.0,7,43,37.0,Yes,0.0
+Ca,San-mateo-county,Burlingame,5 el quanito way,94010,Single family residential,Active,2498000.0,1959,4.0,4.0,2200.0,16988.4,0.0,9,16,7.0,Yes,2563376.0
+Ca,San-mateo-county,Pacifica,590 ridgeway dr,94044,Single family home,Active,1598000.0,1957,3.0,2.0,1816.0,6120.0,0.0,7,29,12.0,Yes,1607676.0
+Ca,San-mateo-county,San mateo,826 w grant pl,94402,Single family home,Active,1998800.0,1939,4.0,2.0,1760.0,6400.0,0.0,8,77,85.0,Yes,2079978.0
+Ca,San-mateo-county,Redwood city,948 fulton st,94061,Single family home,Active,1590000.0,1908,3.0,2.0,1622.0,5928.0,0.0,9,73,64.0,No,1591345.0
+Ca,San-mateo-county,Burlingame,1515 columbus ave,94010,Single family home,Active,2825000.0,1928,3.0,2.0,2050.0,6100.0,0.0,9,47,44.0,Yes,2935883.0
+Ca,San-mateo-county,San carlos,290 oakview dr,94070,Single family home,Active,3149000.0,2008,4.0,3.0,2590.0,6950.0,0.0,9,9,26.0,Yes,3221481.0
+Ca,San-mateo-county,Daly city,334 bellevue ave,94014-1306,Single family residential,Active,1100000.0,1954,3.0,2.0,1170.0,1375.0,0.0,7,76,26.0,Yes,1138995.0
+Ca,San-mateo-county,San mateo,224 n humboldt st,94401,Single family home,Active,1199000.0,1945,2.0,1.0,990.0,4000.0,0.0,7,83,73.0,Yes,1222767.0
+Ca,San-mateo-county,Menlo park,1111 madera ave,94025,Single family home,Active,1175000.0,1950,4.0,2.0,1180.0,5750.0,0.0,7,66,77.0,No,1172573.0
+Ca,San-mateo-county,San mateo,205 ramona st,94401,Single family residential,Active,899000.0,1925,3.0,2.0,1110.0,5175.0,0.0,7,95,78.0,Yes,933556.0
+Ca,San-mateo-county,Pacifica,131 eastridge cir,94044,Single family residential,Active,1188000.0,1966,4.0,2.0,1470.0,4000.0,3.0,7,54,38.0,Yes,1274160.0
+Ca,San-mateo-county,San mateo,111 waters park cir,94403,Townhouse,New,1724990.0,2022,4.0,3.5,2088.0,4000.0,350.0,7,48,75.0,Yes,1713331.0
+Ca,San-mateo-county,Burlingame,723 winchester dr,94010,Single family residential,Active,2550000.0,1928,4.0,2.0,2235.0,6000.0,0.0,9,77,78.0,Yes,0.0
+Ca,San-mateo-county,San mateo,626 mariners island blvd #205,94404,Condo,Active,618888.0,1968,1.0,1.0,726.0,6000.0,464.0,8,55,73.0,Yes,624036.0
+Ca,San-mateo-county,San mateo,3401 shasta dr,94403,Single family home,Active,1849998.0,1970,3.0,2.0,1830.0,9450.0,0.0,7,40,17.0,Yes,1854966.0
+Ca,San-mateo-county,Pacifica,1199 oddstad blvd,94044,Townhouse,Active,799000.0,1973,2.0,1.5,980.0,850.0,409.0,7,12,6.0,Yes,820244.0
+Ca,San-mateo-county,East palo alto,820 weeks st,94303,Single family residential,New,1279888.0,1926,4.0,2.0,2113.0,6840.0,0.0,7,74,79.0,Yes,1287576.0
+Ca,San-mateo-county,Redwood city,308 northumberland ave,94061,Townhouse,Active,1328000.0,1987,3.0,2.5,1585.0,1028.0,440.0,6,79,75.0,Yes,1339429.0
+Ca,San-mateo-county,Brisbane,129 alvarado st,94005,Single family home,Active,899000.0,1929,2.0,1.0,690.0,2500.0,0.0,7,80,46.0,Yes,909627.0
+Ca,San-mateo-county,South san francisco,761 miller ave,94080,Single family home,Active,1649000.0,1926,4.0,2.0,2241.0,5600.0,0.0,5,65,51.0,Yes,1651991.0
+Ca,San-mateo-county,Redwood city,1090 main st #302,94063,Condo,Active,595000.0,1983,1.0,1.0,680.0,5600.0,491.0,9,98,86.0,No,597913.0
+Ca,San-mateo-county,Belmont,2009 monroe ave,94002,Single family home,Active,2698828.0,1962,5.0,3.0,2410.0,4000.0,0.0,9,25,18.0,Yes,2723652.0
+Ca,San-mateo-county,San carlos,1 elm st #101,94070,Condo,Active,945000.0,1981,2.0,2.0,1180.0,17424.0,480.0,9,80,36.0,Yes,941573.0
+Ca,San-mateo-county,Belmont,2102 cipriani blvd,94002,Single family home,Active,2088000.0,1965,3.0,2.0,2280.0,6490.0,0.0,9,35,20.0,Yes,2196158.0
+Ca,San-mateo-county,Daly city,69 w cavour st,94014,Single family residential,New,1100000.0,1931,2.0,1.0,1150.0,2700.0,0.0,7,90,43.0,Yes,1106046.0
+Ca,San-mateo-county,Belmont,1702 valley view ave,94002,Single family home,Active,2588000.0,1978,3.0,3.5,2490.0,9400.0,0.0,9,10,18.0,Yes,2615832.0
+Ca,San-mateo-county,South san francisco,3749 brunswick ct,94080,Single family home,Active,1249000.0,1970,4.0,2.0,1820.0,2500.0,0.0,7,65,30.0,Yes,1288770.0
+Ca,San-mateo-county,San mateo,614 joanne dr,94402,Single family home,Active,1798000.0,1955,3.0,2.0,1400.0,5005.0,0.0,8,73,83.0,Yes,1818044.0
+Ca,San-mateo-county,Millbrae,1212 hillcrest blvd,94030,Single family home,Active,2280000.0,1941,4.0,3.0,2423.0,5544.0,0.0,9,11,11.0,Yes,2378539.0
+Ca,San-mateo-county,San mateo,519 sylvan ave,94403,Single family home,Active,2850888.0,1941,4.0,4.0,2382.0,5550.0,0.0,7,56,52.0,Yes,2756198.0
+Ca,San-mateo-county,San mateo,212 huron ave,94401,Single family home,Active,1450000.0,1949,3.0,2.0,1120.0,5500.0,0.0,7,60,72.0,Yes,1476235.0
+Ca,San-mateo-county,San bruno,282 carlton ave,94066,Single family residential,Active,1090000.0,1926,2.0,1.0,1020.0,2000.0,0.0,6,94,61.0,No,1083042.0
+Ca,San-mateo-county,Burlingame,1305 bernal ave,94010,Single family home,Active,2148000.0,1926,3.0,1.0,1690.0,5400.0,0.0,9,70,58.0,Yes,2129546.0
+Ca,San-mateo-county,Redwood city,3499 e bayshore rd #114,94063,Single-wide mobile home,Active,180000.0,1961,4.0,1.0,500.0,4910.0,0.0,7,43,54.0,No,178503.0
+Ca,San-mateo-county,San bruno,3695 sunset dr,94066,Single family home,Active,1699000.0,1959,4.0,3.0,1559.0,5000.0,0.0,7,7,9.0,Yes,1732973.0
+Ca,San-mateo-county,Redwood city,505-507 sequoia ave,94061,Single family home,Active,2495000.0,1915,4.0,3.5,2326.0,10400.0,0.0,6,41,51.0,Yes,2581326.0
+Ca,San-mateo-county,East palo alto,311 wisteria dr,94303,Single family home,Active,1299000.0,1951,6.0,3.0,2541.0,5000.0,0.0,7,43,70.0,Yes,1312529.0
+Ca,San-mateo-county,Pacifica,548 inverness dr,94044,Single family home,Active,1298000.0,1955,4.0,2.0,1780.0,5000.0,0.0,7,42,12.0,Yes,1308995.0
+Ca,San-mateo-county,Millbrae,20 el bonito way,94030,Single family home,Active,1898000.0,1941,3.0,2.0,1830.0,8632.0,0.0,9,21,10.0,Yes,1946108.0
+Ca,San-mateo-county,San bruno,1711 crestwood dr,94066,Single family residential,Active,1199000.0,1964,3.0,1.5,1241.0,6300.0,0.0,6,20,14.0,Yes,1234423.0
+Ca,San-mateo-county,Pacifica,1089 grand teton dr,94044,Single family home,Active,1498000.0,1967,3.0,2.0,1450.0,6144.0,0.0,7,28,12.0,Yes,1599821.0
+Ca,San-mateo-county,Millbrae,330 marcella way,94030,Single family home,Active,1950000.0,1955,3.0,2.0,1440.0,8400.0,0.0,9,46,39.0,Yes,1971180.0
+Ca,San-mateo-county,Millbrae,301 san pablo ave,94030,Single family home,Active,1398000.0,1952,3.0,1.0,1140.0,5000.0,0.0,9,79,74.0,Yes,1421808.0
+Ca,San-mateo-county,Redwood city,3940 brookline way,94062,Single family home,Active,2399000.0,1948,3.0,3.0,1935.0,7480.0,0.0,8,16,22.0,Yes,2509992.0
+Ca,San-mateo-county,Redwood city,872 chesterton ave,94061,Single family home,Active,1998000.0,1972,4.0,2.0,1420.0,7670.0,0.0,8,60,56.0,Yes,2027649.0
+Ca,San-mateo-county,Menlo park,1437 chilco st,94025,Single family home,Active,1207000.0,1954,3.0,1.0,910.0,5000.0,0.0,7,51,79.0,Yes,1203569.0
+Ca,San-mateo-county,Colma,460 e st,94014,Multi-family (2-4 unit),Active,1450000.0,1902,4.0,3.0,2700.0,6700.0,0.0,7,76,43.0,Yes,1440219.0
+Ca,San-mateo-county,San mateo,1574 parrott dr,94402,Single family home,Active,2450000.0,1953,4.0,2.5,1970.0,8000.0,0.0,8,29,18.0,Yes,2487453.0
+Ca,San-mateo-county,Menlo park,520 kenwood dr,94025,Single family home,Active,2075000.0,1945,2.0,1.0,1050.0,5035.0,0.0,9,91,95.0,Yes,2174249.0
+Ca,San-mateo-county,San bruno,2120 valleywood dr,94066,Single family home,Active,1388000.0,1956,3.0,2.0,1140.0,4950.0,0.0,6,24,7.0,Yes,0.0
+Ca,San-mateo-county,Menlo park,307 concord dr,94025,Single family home,Active,2900000.0,1948,5.0,3.0,2270.0,5720.0,0.0,8,67,88.0,Yes,2980225.0
+Ca,San-mateo-county,San mateo,1149 yates way,94403,Townhouse,Active,1288000.0,2001,2.0,2.5,1254.0,14374.800000000001,299.0,7,67,83.0,Yes,1299227.0
+Ca,San-mateo-county,Burlingame,900 paloma ave,94010,Single family home,Active,2495000.0,1925,2.0,1.0,1290.0,12196.800000000001,0.0,9,82,76.0,Yes,2498838.0
+Ca,San-mateo-county,San mateo,6 fairoaks ct,94403,Single family residential,Active,2888000.0,1959,3.0,3.0,2420.0,10890.0,0.0,7,64,32.0,Yes,2936403.0
+Ca,San-mateo-county,San bruno,721 green ave,94066,Single family home,Active,1029000.0,1931,2.0,1.0,1110.0,2500.0,0.0,6,95,58.0,Yes,1057939.0
+Ca,San-mateo-county,San mateo,262 waters park cir,94403,Condo,New,1401275.0,2021,2.0,2.5,1449.0,2500.0,359.0,7,42,71.0,Yes,1393844.0
+Ca,San-mateo-county,South san francisco,865 baden ave,94080,Multi-family (2-4 unit),Active,1498000.0,1944,4.0,1.0,1680.0,6300.0,0.0,5,75,59.0,No,1436296.0
+Ca,San-mateo-county,Pacifica,1425 terra nova blvd,94044,Townhouse,Active,625000.0,1972,2.0,1.5,900.0,705.0,350.0,7,35,14.0,Yes,641515.0
+Ca,San-mateo-county,San mateo,488 fathom dr,94404,Single family home,Active,1988000.0,1968,4.0,3.0,1880.0,2350.0,175.0,8,33,70.0,Yes,1976544.0
+Ca,San-mateo-county,San carlos,1574 gover ln,94070,Single family home,Active,2585000.0,1951,4.0,2.5,1756.0,5650.0,0.0,9,77,61.0,Yes,0.0
+Ca,San-mateo-county,Half moon bay,104 carnoustie dr,94019,Single family home,Active,2575000.0,2013,4.0,3.0,3220.0,7296.0,150.0,6,6,57.0,Yes,0.0
+Ca,San-mateo-county,Daly city,147 knowles ave,94014,Single family home,Active,998000.0,1906,3.0,2.0,1250.0,2500.0,0.0,7,91,40.0,Yes,1007434.0
+Ca,San-mateo-county,San carlos,657 walnut st #434,94070,Condo,Active,1599000.0,2020,3.0,2.0,1497.0,1492.0,525.0,9,97,74.0,Yes,1594576.0
+Ca,San-mateo-county,San bruno,162-164 oxford ln,94066,Duplex,Active,1845000.0,1966,6.0,4.0,4090.0,2805.0,108.0,7,15,31.0,Yes,0.0
+Ca,San-mateo-county,Menlo park,1990 sharon rd,94025,Single family home,Active,2750000.0,1948,3.0,2.0,1766.0,7590.0,0.0,8,50,74.0,No,2771643.0
+Ca,San-mateo-county,Burlingame,1416 edgehill dr,94010,Single family home,Active,2498000.0,1917,4.0,2.5,2950.0,5904.0,0.0,9,81,80.0,Yes,2512390.0
+Ca,San-mateo-county,San bruno,3790 fleetwood dr,94066,Single family home,Active,1298000.0,1963,3.0,3.0,1400.0,5000.0,0.0,8,43,18.0,Yes,1386760.0
+Ca,San-mateo-county,Half moon bay,2044 touraine ln,94019,Single family home,Active,1999000.0,1973,4.0,3.0,2710.0,8575.0,0.0,6,12,57.0,Yes,2053173.0
+Ca,San-mateo-county,Half moon bay,120 coronado ave,94019,Single family home,Active,3175000.0,2007,4.0,3.0,2264.0,4400.0,0.0,6,34,46.0,Yes,3161709.0
+Ca,San-mateo-county,South san francisco,436 yellowstone dr,94080,Single family residential,Active,1425000.0,1959,3.0,2.0,1340.0,5880.0,0.0,6,11,11.0,Yes,1437896.0
+Ca,San-mateo-county,Pacifica,628 linda mar blvd,94044,Single family home,Active,995000.0,1954,3.0,1.0,1040.0,5000.0,0.0,7,67,65.0,Yes,1047744.0
+Ca,San-mateo-county,San mateo,1761 klamath ave,94403,Single family home,Active,1278000.0,1955,3.0,2.5,1222.0,5782.0,0.0,8,42,71.0,Yes,1343102.0
+Ca,San-mateo-county,Redwood city,1650 - 1652 kansas st,94061,Multi-family (2-4 unit),Active,1950000.0,1971,5.0,4.0,3540.0,6000.0,0.0,6,67,62.0,Yes,1948315.0
+Ca,San-mateo-county,Burlingame,1472 cortez ave,94010,Single family home,Active,2698000.0,1924,3.0,2.0,1996.0,6000.0,0.0,9,67,65.0,No,2836383.0
+Ca,San-mateo-county,El granada,454 sevilla ave,94018,Single family home,Active,2460000.0,2003,3.0,2.5,2693.0,5824.0,0.0,6,36,17.0,Yes,2449858.0
+Ca,San-mateo-county,San bruno,6257 shelter creek ln,94066,Condo,Active,410000.0,1972,0.0,1.0,490.0,5824.0,391.0,7,45,18.0,No,409501.0
+Ca,San-mateo-county,San carlos,132 winding way,94070,Single family home,Active,1988000.0,1947,3.0,1.0,1845.0,5073.0,0.0,9,22,12.0,No,1990872.0
+Ca,San-mateo-county,Pacifica,175 beachview ave,94044,Single family residential,Active,1288888.0,1964,4.0,2.5,1610.0,5880.0,0.0,7,35,20.0,Yes,1309805.0
+Ca,San-mateo-county,San carlos,1022 alameda de las pulgas,94070,Single family home,Active,2650000.0,1952,4.0,2.0,1849.0,6144.0,0.0,9,21,35.0,Yes,2663400.0
+Ca,San-mateo-county,San carlos,6 coleman ct,94070,Single family home,Active,2100000.0,1961,3.0,2.0,1720.0,13068.0,0.0,9,26,22.0,Yes,2165712.0
+Ca,San-mateo-county,Daly city,932 gellert blvd,94015,Single family home,Active,1298000.0,1972,3.0,3.0,1640.0,3135.0,0.0,7,55,28.0,Yes,1313505.0
+Ca,San-mateo-county,Daly city,1516 annie st,94015,Single family residential,Active,1399000.0,2016,4.0,3.0,1890.0,3013.0,202.0,7,84,43.0,Yes,0.0
+Ca,San-mateo-county,Foster city,130 cityhomes ln,94404,Townhouse,Active,1325000.0,1987,2.0,2.5,1530.0,920.0,475.0,7,77,68.0,Yes,1374602.0
+Ca,San-mateo-county,Menlo park,316 laurel ave,94025,Single family home,Active,2895000.0,1953,3.0,2.0,1955.0,7840.0,0.0,8,75,85.0,Yes,2899821.0
+Ca,San-mateo-county,Montara,911 jordan st,94037,Single family home,Active,2600000.0,2001,4.0,4.5,3439.0,11325.6,0.0,6,4,17.0,Yes,2543261.0
+Ca,San-mateo-county,San carlos,166 fairmont ave,94070,Single family home,Active,2495000.0,1941,3.0,2.0,1650.0,5550.0,0.0,9,60,54.0,Yes,2521507.0
+Ca,San-mateo-county,Pacifica,995 crespi dr,94044,Single family home,Active,1799000.0,1954,4.0,2.5,2040.0,6715.0,0.0,7,45,14.0,Yes,1850636.0
+Ca,San-mateo-county,Daly city,693 southgate ave,94015,Single family home,Active,1299950.0,1954,4.0,2.0,2010.0,3400.0,0.0,7,52,34.0,Yes,1352945.0
+Ca,San-mateo-county,Belmont,2411 buena vista ave,94002,Single family home,Active,2398000.0,1938,4.0,2.0,2220.0,8400.0,0.0,9,22,27.0,Yes,2460498.0
+Ca,San-mateo-county,Burlingame,304 bayswater ave,94010,Single family home,Active,2150000.0,1929,3.0,1.5,1490.0,4692.0,0.0,9,83,74.0,Yes,2146370.0
+Ca,San-mateo-county,Redwood city,2650 carolina ave,94061,Single family home,Active,1728000.0,1951,3.0,2.0,1160.0,7686.0,0.0,6,74,78.0,Yes,1824848.0
+Ca,San-mateo-county,Belmont,2047 monroe ave,94002,Single family home,Active,1595000.0,1953,3.0,2.0,1280.0,4900.0,0.0,9,35,20.0,Yes,1685829.0
+Ca,San-mateo-county,Foster city,1062 eagle ln,94404,Single family home,Active,1100000.0,1971,2.0,1.5,980.0,1955.0,489.0,7,40,68.0,Yes,1121959.0
+Ca,San-mateo-county,Redwood city,550 sapphire st,94062,Single family home,Active,1998000.0,1936,3.0,2.0,2720.0,8160.0,0.0,6,70,68.0,Yes,2067895.0
+Ca,San-mateo-county,Daly city,178 winchester st,94014,Single family residential,Active,1098888.0,1927,3.0,2.0,1840.0,2350.0,0.0,7,86,36.0,Yes,1183640.0
+Ca,San-mateo-county,Daly city,74 san juan ave,94015,Single family home,Active,1295000.0,1960,3.0,3.0,1730.0,3400.0,0.0,7,70,35.0,Yes,1286212.0
+Ca,San-mateo-county,El granada,538 valencia ave,94018,Single family home,Active,2775000.0,2022,6.0,4.0,2827.0,6250.0,0.0,6,67,47.0,Yes,2786217.0
+Ca,San-mateo-county,Pacifica,528 arguello blvd,94044,Single family home,Active,1398888.0,1954,3.0,1.5,1484.0,5000.0,0.0,7,63,68.0,Yes,1409453.0
+Ca,San-mateo-county,Burlingame,1552 alturas dr,94010,Single family home,Active,2798000.0,1954,4.0,3.0,2530.0,7260.0,0.0,9,11,14.0,Yes,2831871.0
+Ca,San-mateo-county,Menlo park,474 oconnor st,94025,Single family residential,Active,2498000.0,1929,2.0,1.0,1560.0,10240.0,0.0,8,62,80.0,Yes,2710530.0
+Ca,San-mateo-county,San bruno,7229 shelter creek ln,94066,Condo,Active,498000.0,1972,1.0,1.0,680.0,2964.0,416.0,7,45,18.0,Yes,499541.0
+Ca,San-mateo-county,Half moon bay,208 kelly ave,94019,Single family home,Active,2400000.0,2005,4.0,3.5,3192.0,7500.0,0.0,6,51,75.0,Yes,2392838.0
+Ca,San-mateo-county,Daly city,70 woodside ave,94015,Single family residential,Active,1459000.0,1960,3.0,2.0,1230.0,3400.0,0.0,7,56,25.0,Yes,0.0
+Ca,San-mateo-county,San carlos,1432 san carlos ave #5,94070,Condo,Active,999950.0,1986,2.0,2.5,1191.0,3400.0,399.0,9,94,73.0,Yes,999717.0
+Ca,San-mateo-county,Burlingame,917 azalea ave,94010,Single family home,Active,1758000.0,1941,2.0,1.0,950.0,5000.0,0.0,9,79,77.0,Yes,1829408.0
+Ca,San-mateo-county,East palo alto,235 gardenia way,94303,Single family home,Active,998000.0,1954,4.0,3.0,1370.0,6400.0,0.0,7,45,73.0,Yes,1008061.0
+Ca,San-mateo-county,Daly city,1083 south mayfair ave,94015,Single family residential,Active,1299000.0,1954,2.0,3.0,1505.0,3200.0,0.0,7,46,36.0,Yes,0.0
+Ca,San-mateo-county,San bruno,261 fernwood dr,94066,Single family residential,Active,995000.0,1957,3.0,2.0,1040.0,5250.0,0.0,6,11,7.0,Yes,1031134.0
+Ca,San-mateo-county,San mateo,845 n humboldt st #410,94401,Condo,Active,570000.0,1965,1.0,1.0,693.0,5250.0,524.0,7,78,68.0,Yes,574200.0
+Ca,San-mateo-county,Pacifica,921 fassler ave,94044,Townhouse,Active,1098000.0,1988,2.0,2.5,1450.0,1176.0,530.0,7,15,3.0,Yes,1118946.0
+Ca,San-mateo-county,Daly city,8 randall ct,94015,Single family residential,Active,1089000.0,1950,3.0,1.5,1010.0,7314.0,1.0,7,61,23.0,Yes,0.0
+Ca,San-mateo-county,Pacifica,916 park pacifica ave,94044,Single family home,Active,1880000.0,1972,4.0,2.5,2020.0,6500.0,0.0,7,35,28.0,Yes,1926271.0
+Ca,San-mateo-county,Redwood shores,806 mediterranean ln #1822,94065,Condo,Active,1449441.0,1989,2.0,2.0,1892.0,1860.0,535.0,9,19,72.0,Yes,1504542.0
+Ca,San-mateo-county,Redwood city,227 park st,94061,Farm/ranch,Active,1199000.0,1940,2.0,1.0,860.0,6000.0,0.0,6,79,75.0,Yes,0.0
+Ca,San-mateo-county,East palo alto,332 azalia dr,94303,Single family home,Active,1100000.0,1951,3.0,2.0,1130.0,5000.0,0.0,7,47,76.0,Yes,1098562.0
+Ca,San-mateo-county,Redwood city,327 g st,94063,Single family home,Active,1649000.0,1951,3.0,2.0,1244.0,5876.0,0.0,9,65,81.0,Yes,1674965.0
+Ca,San-mateo-county,Belmont,3322 plateau dr,94002,Single family home,Active,2488000.0,1966,6.0,3.0,2240.0,10290.0,0.0,9,9,19.0,Yes,2463021.0
+Ca,San-mateo-county,San mateo,102 waters park cir,94403,Townhouse,New,1463917.0,2021,2.0,2.5,1602.0,10290.0,350.0,7,48,75.0,Yes,1462581.0
+Ca,San-mateo-county,Foster city,1032 sanderling st,94404,Single family home,Active,1798000.0,1965,4.0,3.0,2450.0,5700.0,0.0,7,38,68.0,Yes,1841263.0
